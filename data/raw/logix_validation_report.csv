@@ -1,0 +1,138 @@
+check,status,details
+customers.csv schema,PASS,All required columns present
+addresses.csv schema,PASS,All required columns present
+products.csv schema,PASS,All required columns present
+warehouses.csv schema,PASS,All required columns present
+drivers.csv schema,PASS,All required columns present
+vehicles.csv schema,PASS,All required columns present
+delivery_partners.csv schema,PASS,All required columns present
+orders.csv schema,PASS,All required columns present
+order_items.csv schema,PASS,All required columns present
+payments.csv schema,PASS,All required columns present
+shipments.csv schema,PASS,All required columns present
+delivery_attempts.csv schema,PASS,All required columns present
+inventory.csv schema,PASS,All required columns present
+returns.csv schema,PASS,All required columns present
+customers.csv PK NULL,PASS,NULLs: 0
+customers.csv PK duplicate,PASS,Duplicates: 0
+addresses.csv PK NULL,PASS,NULLs: 0
+addresses.csv PK duplicate,PASS,Duplicates: 0
+products.csv PK NULL,PASS,NULLs: 0
+products.csv PK duplicate,PASS,Duplicates: 0
+warehouses.csv PK NULL,PASS,NULLs: 0
+warehouses.csv PK duplicate,PASS,Duplicates: 0
+drivers.csv PK NULL,PASS,NULLs: 0
+drivers.csv PK duplicate,PASS,Duplicates: 0
+vehicles.csv PK NULL,PASS,NULLs: 0
+vehicles.csv PK duplicate,PASS,Duplicates: 0
+delivery_partners.csv PK NULL,PASS,NULLs: 0
+delivery_partners.csv PK duplicate,PASS,Duplicates: 0
+orders.csv PK NULL,PASS,NULLs: 0
+orders.csv PK duplicate,PASS,Duplicates: 0
+order_items.csv PK NULL,PASS,NULLs: 0
+order_items.csv PK duplicate,PASS,Duplicates: 0
+payments.csv PK NULL,PASS,NULLs: 0
+payments.csv PK duplicate,PASS,Duplicates: 0
+shipments.csv PK NULL,PASS,NULLs: 0
+shipments.csv PK duplicate,PASS,Duplicates: 0
+delivery_attempts.csv PK NULL,PASS,NULLs: 0
+delivery_attempts.csv PK duplicate,PASS,Duplicates: 0
+inventory.csv PK NULL,PASS,NULLs: 0
+inventory.csv PK duplicate,PASS,Duplicates: 0
+returns.csv PK NULL,PASS,NULLs: 0
+returns.csv PK duplicate,PASS,Duplicates: 0
+addresses → customers,PASS,Invalid references: 0
+orders → customers,PASS,Invalid references: 0
+orders → addresses,PASS,Invalid references: 0
+order_items → orders,PASS,Invalid references: 0
+order_items → products,PASS,Invalid references: 0
+payments → orders,PASS,Invalid references: 0
+shipments → orders,PASS,Invalid references: 0
+shipments → warehouses,PASS,Invalid references: 0
+shipments → delivery_partners,PASS,Invalid references: 0
+delivery_attempts → shipments,PASS,Invalid references: 0
+delivery_attempts → orders,PASS,Invalid references: 0
+inventory → warehouses,PASS,Invalid references: 0
+inventory → products,PASS,Invalid references: 0
+vehicles → drivers,PASS,Invalid references: 0
+returns → orders,PASS,Invalid references: 0
+returns → order_items,PASS,Invalid references: 0
+returns → products,PASS,Invalid references: 0
+customers.csv NULL validation,PASS,NULL values: 0
+addresses.csv NULL validation,PASS,NULL values: 0
+products.csv NULL validation,PASS,NULL values: 0
+warehouses.csv NULL validation,PASS,NULL values: 0
+drivers.csv NULL validation,PASS,NULL values: 0
+vehicles.csv NULL validation,PASS,NULL values: 0
+delivery_partners.csv NULL validation,PASS,NULL values: 0
+orders.csv NULL validation,PASS,NULL values: 0
+order_items.csv NULL validation,PASS,NULL values: 0
+payments.csv NULL validation,PASS,NULL values: 0
+shipments.csv NULL validation,PASS,"NULL values: 33,039"
+delivery_attempts.csv NULL validation,PASS,"NULL values: 72,548"
+inventory.csv NULL validation,PASS,NULL values: 0
+returns.csv NULL validation,PASS,NULL values: 0
+products.unit_price > 0,PASS,Invalid rows: 0
+products.weight_kg > 0,PASS,Invalid rows: 0
+drivers.experience_years >= 0,PASS,Invalid rows: 0
+drivers.rating > 0,PASS,Invalid rows: 0
+delivery_partners.base_cost_per_km > 0,PASS,Invalid rows: 0
+delivery_partners.rating > 0,PASS,Invalid rows: 0
+order_items.quantity > 0,PASS,Invalid rows: 0
+order_items.unit_price > 0,PASS,Invalid rows: 0
+order_items.discount_percent >= 0,PASS,Invalid rows: 0
+order_items.discount_amount >= 0,PASS,Invalid rows: 0
+order_items.line_total >= 0,PASS,Invalid rows: 0
+payments.amount > 0,PASS,Invalid rows: 0
+shipments.distance_km > 0,PASS,Invalid rows: 0
+shipments.shipping_cost > 0,PASS,Invalid rows: 0
+shipments.sla_days > 0,PASS,Invalid rows: 0
+inventory.opening_stock >= 0,PASS,Invalid rows: 0
+inventory.current_stock >= 0,PASS,Invalid rows: 0
+inventory.reorder_level >= 0,PASS,Invalid rows: 0
+inventory.unit_cost > 0,PASS,Invalid rows: 0
+inventory.inventory_value >= 0,PASS,Invalid rows: 0
+returns.return_quantity > 0,PASS,Invalid rows: 0
+returns.return_amount >= 0,PASS,Invalid rows: 0
+returns.refund_amount >= 0,PASS,Invalid rows: 0
+discount_percent between 0 and 100,PASS,Invalid rows: 0
+discount_amount formula,PASS,Mismatches: 0
+line_total formula,PASS,Mismatches: 0
+payment total matches order total,PASS,Mismatched orders: 0
+inventory_value = current_stock × unit_cost,PASS,Mismatches: 0
+return order consistency,PASS,Mismatches: 0
+return product consistency,PASS,Mismatches: 0
+return quantity <= purchased quantity,PASS,Invalid rows: 0
+return amount formula,PASS,Mismatches: 0
+refund <= return amount,PASS,Invalid rows: 0
+one shipment per order,PASS,Duplicate orders: 0
+shipment expected date >= shipment date,PASS,Invalid rows: 0
+shipment actual date >= shipment date,PASS,Invalid rows: 0
+attempt_number > 0,PASS,Invalid rows: 0
+delivery attempt sequence,PASS,Invalid sequences: 0
+customer registration dates,PASS,Invalid dates: 0
+order dates,PASS,Invalid dates: 0
+order expected delivery dates,PASS,Invalid dates: 0
+payment dates,PASS,Invalid dates: 0
+shipment dates,PASS,Invalid dates: 0
+shipment expected dates,PASS,Invalid dates: 0
+shipment actual dates,PASS,Invalid dates: 0
+attempt dates,PASS,Invalid dates: 0
+inventory restock dates,PASS,Invalid dates: 0
+return dates,PASS,Invalid dates: 0
+order expected date >= order date,FAIL,Invalid orders: 104
+payment date >= order date,PASS,Invalid payments: 0
+customers.csv minimum rows,PASS,"Actual: 20,000; Minimum: 20,000"
+addresses.csv minimum rows,PASS,"Actual: 30,000; Minimum: 30,000"
+products.csv minimum rows,PASS,"Actual: 5,000; Minimum: 5,000"
+warehouses.csv minimum rows,PASS,Actual: 30; Minimum: 30
+drivers.csv minimum rows,PASS,"Actual: 1,000; Minimum: 1,000"
+vehicles.csv minimum rows,PASS,"Actual: 1,200; Minimum: 1,200"
+delivery_partners.csv minimum rows,PASS,Actual: 25; Minimum: 25
+orders.csv minimum rows,PASS,"Actual: 100,000; Minimum: 100,000"
+order_items.csv minimum rows,PASS,"Actual: 299,720; Minimum: 250,000"
+payments.csv minimum rows,PASS,"Actual: 100,000; Minimum: 100,000"
+shipments.csv minimum rows,PASS,"Actual: 100,000; Minimum: 100,000"
+delivery_attempts.csv minimum rows,PASS,"Actual: 99,464; Minimum: 1"
+inventory.csv minimum rows,PASS,"Actual: 150,000; Minimum: 100,000"
+returns.csv minimum rows,PASS,"Actual: 15,000; Minimum: 15,000"

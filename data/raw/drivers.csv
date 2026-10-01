@@ -1,0 +1,1001 @@
+driver_id,driver_name,phone,license_number,experience_years,rating,city,employment_type,status
+DRV00001,Pratyush Nori,9718224435,DL11232162,11,2.81,Kanpur,Full Time,Active
+DRV00002,Jatin Rattan,8669720534,DL50606580,14,3.87,Nagpur,Full Time,Active
+DRV00003,Zehaan Chanda,7033583005,DL98671939,13,3.33,Haridwar,Full Time,Active
+DRV00004,Pratyush Vig,9894214445,DL40430159,5,4.19,Bengaluru,Contract,Active
+DRV00005,Ayaan Dyal,6086523727,DL55117712,1,4.94,Bhopal,Full Time,Active
+DRV00006,Xavier Doctor,8291475633,DL47781599,13,2.6,Hyderabad,Full Time,Active
+DRV00007,Shivansh Kulkarni,9202259913,DL91138936,8,4.86,Chennai,Contract,Active
+DRV00008,Gaurika Dube,6209576984,DL31896119,3,4.51,Mumbai,Full Time,Active
+DRV00009,Harita Yohannan,6775886349,DL82375359,16,2.93,Ahmedabad,Contract,Inactive
+DRV00010,Ekta Sibal,8697148654,DL75161099,14,4.38,Raipur,Full Time,On Leave
+DRV00011,Fariq Bera,7415682012,DL95722456,18,3.25,Kota,Full Time,Active
+DRV00012,Rudra Rajan,8974663580,DL10051924,5,4.95,Mangaluru,Partner,Active
+DRV00013,Eiravati Buch,7509738873,DL25665321,19,3.92,Raipur,Partner,Active
+DRV00014,Jagat Deol,6901782508,DL96127794,8,3.04,Indore,Partner,Active
+DRV00015,Kritika Pathak,7581187327,DL93830731,8,4.76,Delhi,Contract,Active
+DRV00016,Anita Devi,8199367331,DL31871023,11,4.39,Amritsar,Full Time,Active
+DRV00017,Vasatika Badami,8532763931,DL37631851,4,4.27,Vadodara,Partner,Active
+DRV00018,Raghav Arya,8071113728,DL31961394,4,2.81,Varanasi,Full Time,Active
+DRV00019,Dhriti Vohra,6526625057,DL56649541,6,4.71,Amritsar,Full Time,Active
+DRV00020,Nathaniel Nayak,7069375521,DL28949922,16,2.66,Noida,Full Time,On Leave
+DRV00021,Sai Vasa,6508407030,DL19200689,10,3.08,Jaipur,Full Time,Active
+DRV00022,Siddharth Mishra,8196456629,DL13578000,18,3.88,Ludhiana,Full Time,Active
+DRV00023,Jatin Tandon,9397179713,DL98481765,15,2.98,Kochi,Full Time,Active
+DRV00024,Yash Koshy,6971475917,DL13591228,6,3.67,Surat,Partner,Active
+DRV00025,Zaid Soni,8758698136,DL76325534,17,2.72,Kochi,Contract,Active
+DRV00026,Bakhshi Thaker,8958148226,DL66500979,19,2.57,Mangaluru,Contract,Active
+DRV00027,Thomas Mody,6864953495,DL16037490,11,3.25,Guwahati,Contract,Active
+DRV00028,Pushti Wagle,6797788864,DL56048638,12,4.7,Jaipur,Partner,Active
+DRV00029,Mugdha Dasgupta,7748016128,DL57552002,12,4.93,Chandigarh,Contract,Active
+DRV00030,Yash Tara,9995170313,DL43197309,13,3.44,Kanpur,Full Time,Active
+DRV00031,Hema Jayaraman,6625373828,DL86502029,10,3.8,Mangaluru,Full Time,Active
+DRV00032,Dhriti Singh,9923218286,DL13533490,16,3.25,Amritsar,Full Time,On Leave
+DRV00033,Victor Agarwal,8638289248,DL83657088,12,4.61,Gorakhpur,Full Time,Active
+DRV00034,Ekantika Narasimhan,6869855727,DL62564106,6,3.0,Kochi,Full Time,Active
+DRV00035,Arunima Nadig,9621541795,DL37368787,1,2.61,Raipur,Full Time,Active
+DRV00036,Wakeeta Devan,8622064807,DL88206847,16,3.13,Coimbatore,Full Time,Active
+DRV00037,Oviya Rana,7905809879,DL42506944,2,3.35,Delhi,Full Time,Active
+DRV00038,Niharika Guha,9386424835,DL10158046,17,4.52,Agra,Full Time,Active
+DRV00039,Amaira Batra,8266939352,DL27256251,20,4.2,Kochi,Full Time,Active
+DRV00040,Lakshit Sane,9497093165,DL12543061,10,3.79,Gorakhpur,Partner,Active
+DRV00041,Hardik Shah,8041466959,DL40753477,9,2.91,Varanasi,Contract,Active
+DRV00042,Gagan Rout,7390890751,DL66558344,1,3.99,Nagpur,Contract,Active
+DRV00043,Parth Bajaj,8504706176,DL25875715,19,4.64,Hyderabad,Contract,Active
+DRV00044,Krisha Chandran,7555986363,DL86111237,13,3.25,Gorakhpur,Contract,Active
+DRV00045,Ranveer Talwar,6452334396,DL71768491,10,4.61,Bhopal,Full Time,Active
+DRV00046,Lekha Nagar,9022232547,DL37560368,12,4.38,Agra,Full Time,Active
+DRV00047,Ishaan Ghose,7611484643,DL19706461,4,3.04,Mumbai,Full Time,Active
+DRV00048,Upma Cheema,7363819939,DL97489105,3,4.46,Mumbai,Full Time,Active
+DRV00049,Yashodhara Madan,7093299137,DL15304368,8,4.62,Indore,Full Time,Active
+DRV00050,Dayamai Narang,6093984438,DL99352812,13,3.86,Nagpur,Full Time,Active
+DRV00051,Harshil Bhagat,9745843036,DL47790222,3,2.89,Jaipur,Contract,Inactive
+DRV00052,Aarush Chaudhuri,7871570291,DL85480672,12,4.33,Prayagraj,Contract,Active
+DRV00053,Yochana Basu,7520033687,DL75139385,20,4.22,Jodhpur,Partner,Active
+DRV00054,Aadhya Iyer,7083482364,DL54477074,20,2.77,Bhubaneswar,Contract,Active
+DRV00055,Shivani Bajaj,8949069828,DL16505346,10,2.8,Mumbai,Partner,On Leave
+DRV00056,Manthan Wason,8050159024,DL96243657,2,4.57,Agra,Full Time,Active
+DRV00057,Timothy Hans,9119703524,DL94015724,3,2.85,Ahmedabad,Full Time,Active
+DRV00058,Chandresh Rajagopal,8217010088,DL58692160,5,2.6,Ludhiana,Full Time,Active
+DRV00059,Krish Andra,7319337368,DL32096076,1,2.83,Agra,Full Time,Active
+DRV00060,Damyanti Dara,9524638660,DL60972538,11,3.64,Kanpur,Full Time,Active
+DRV00061,Gaurang Devan,8903617683,DL21927225,13,2.58,Kolkata,Contract,Active
+DRV00062,Benjamin Subramanian,6189721514,DL23898406,18,3.64,Chennai,Contract,Active
+DRV00063,Gagan Basak,8436549115,DL98815709,6,3.48,Kanpur,Contract,Active
+DRV00064,Jagdish Jani,7008869534,DL69048592,2,2.79,Kolkata,Partner,Active
+DRV00065,Faras Nori,8573687855,DL96462164,13,3.46,Vadodara,Full Time,Active
+DRV00066,Nirja Lall,7853924774,DL27002391,19,3.66,Surat,Contract,Active
+DRV00067,Sachi Merchant,6735219929,DL27552283,3,2.56,Kolkata,Full Time,Active
+DRV00068,Yamini Nigam,9023680328,DL81733855,16,2.71,Gorakhpur,Partner,Active
+DRV00069,Oviya Kapoor,9401893939,DL60004046,17,2.98,Patna,Contract,Active
+DRV00070,Netra Kari,9437584893,DL41739632,13,3.52,Nashik,Partner,Active
+DRV00071,Warinder Sangha,6698146329,DL96387587,18,4.6,Mysuru,Full Time,Active
+DRV00072,Meghana Cherian,8087243782,DL52552416,14,2.91,Raipur,Full Time,Active
+DRV00073,Raksha Ram,8173629887,DL22039548,16,4.56,Noida,Full Time,Active
+DRV00074,Vedhika Sura,9777269572,DL11117711,10,4.17,Chandigarh,Full Time,Active
+DRV00075,Wridesh Pradhan,7836602012,DL33310255,7,4.78,Dehradun,Contract,Active
+DRV00076,Kashvi Ratta,7613691620,DL75912890,1,2.67,Bengaluru,Contract,Active
+DRV00077,Dalaja Murty,7292396225,DL62893175,8,3.66,Guwahati,Full Time,Active
+DRV00078,Nidhi Srinivas,7776261819,DL60810968,5,4.09,Nagpur,Partner,Active
+DRV00079,Damini Mittal,7255699005,DL98615888,2,4.76,Delhi,Partner,On Leave
+DRV00080,Akshay Parmar,8695803869,DL76506957,7,2.7,Ranchi,Partner,Active
+DRV00081,Mugdha Mutti,8080848613,DL97376263,4,4.73,Coimbatore,Full Time,Active
+DRV00082,Gaurav Joshi,9991785128,DL39739838,15,2.74,Haridwar,Full Time,Inactive
+DRV00083,Tripti Bhatnagar,9990706993,DL20696100,1,4.71,Ranchi,Contract,Active
+DRV00084,Teerth Walla,6472119802,DL16714641,7,3.32,Nashik,Contract,Active
+DRV00085,Qushi Sem,9398434715,DL41864237,19,2.95,Pune,Partner,Active
+DRV00086,Nakul Taneja,8658035906,DL83642702,10,4.08,Gorakhpur,Full Time,Active
+DRV00087,Waida Sandhu,8219524801,DL15374585,14,3.82,Surat,Full Time,Active
+DRV00088,Chaman Yadav,6859270896,DL97817999,4,3.5,Mangaluru,Full Time,Active
+DRV00089,Victor Mallick,8322460492,DL78348837,15,3.25,Gorakhpur,Full Time,Active
+DRV00090,Nikita Lalla,9482812190,DL62269047,4,2.86,Chennai,Full Time,Active
+DRV00091,Brinda Divan,6032017894,DL43922701,20,4.94,Nagpur,Full Time,Inactive
+DRV00092,Vamakshi Khanna,8759073207,DL54157476,13,3.24,Delhi,Full Time,Active
+DRV00093,Avi Dhar,6290653384,DL71113072,1,4.18,Jodhpur,Partner,Active
+DRV00094,Tanmayi Bala,9397847022,DL14903357,16,2.97,Bhubaneswar,Partner,Active
+DRV00095,Maya Gala,7935180380,DL15582935,9,4.74,Mumbai,Contract,Active
+DRV00096,Saanvi Jhaveri,7686727315,DL48987102,10,4.27,Surat,Full Time,Active
+DRV00097,Ishanvi Bala,9531481686,DL25732390,6,4.79,Nashik,Full Time,On Leave
+DRV00098,Ishita Soman,9414692924,DL13727461,18,3.28,Surat,Contract,Active
+DRV00099,Vritti De,9549727735,DL25045063,1,2.56,Coimbatore,Partner,Active
+DRV00100,Veda Hayer,7424939676,DL43794516,11,3.52,Indore,Contract,Active
+DRV00101,Keya Pradhan,9244973673,DL29630076,16,2.71,Kochi,Full Time,On Leave
+DRV00102,Yashica Bedi,8411116766,DL60546046,5,4.88,Indore,Contract,Active
+DRV00103,Garima Bhandari,9437897794,DL57161669,19,4.25,Guwahati,Full Time,Active
+DRV00104,Jackson Ahluwalia,9422481293,DL19512920,10,2.77,Kanpur,Partner,Active
+DRV00105,Dayita Walia,9151999859,DL60187324,8,4.41,Amritsar,Full Time,Active
+DRV00106,Zarna Doshi,8744644605,DL66616277,5,2.81,Coimbatore,Full Time,Active
+DRV00107,Joshua Kota,6869039779,DL88228689,5,4.82,Pune,Full Time,Inactive
+DRV00108,William Ahuja,9198934880,DL49136505,20,3.42,Kota,Full Time,Active
+DRV00109,Hritik De,8144358542,DL19405013,5,3.47,Ranchi,Contract,Active
+DRV00110,Zehaan Bandi,9784594254,DL81098915,16,3.21,Coimbatore,Full Time,Active
+DRV00111,Praneel Atwal,8117314980,DL85785428,18,3.59,Prayagraj,Partner,Active
+DRV00112,Ranbir Wagle,9643026883,DL99467252,2,2.98,Ahmedabad,Full Time,Active
+DRV00113,Zansi Lal,9563780802,DL73558518,12,2.86,Ranchi,Contract,Active
+DRV00114,Avi Bhatti,6641377079,DL30607595,4,4.91,Pune,Partner,Active
+DRV00115,Balvan Karpe,9750672164,DL68267530,6,4.76,Raipur,Full Time,Active
+DRV00116,Arya Ratta,9675040391,DL99101034,20,4.2,Jodhpur,Full Time,Active
+DRV00117,Libni Bawa,6932081050,DL59447238,1,4.98,Ludhiana,Contract,Active
+DRV00118,Inaya Murty,8567050517,DL71581999,8,4.57,Indore,Full Time,Active
+DRV00119,Nirja Mody,9415830474,DL50751059,20,2.89,Indore,Full Time,Active
+DRV00120,Ekaja Nagy,9496903048,DL50248753,16,4.3,Chennai,Contract,Active
+DRV00121,Lipika Krishnan,6123068701,DL46516994,20,3.66,Kolkata,Full Time,On Leave
+DRV00122,Shaurya Atwal,9634268178,DL46510219,17,2.96,Ghaziabad,Partner,Active
+DRV00123,Yauvani Gour,8817752527,DL35308270,18,3.74,Surat,Full Time,Active
+DRV00124,Vidhi Srivastava,7371815818,DL15716351,2,3.44,Ludhiana,Full Time,Inactive
+DRV00125,Falan Sharaf,8737924899,DL39529042,5,3.04,Vadodara,Full Time,Active
+DRV00126,Prisha Shukla,6101127419,DL99728794,3,2.85,Ranchi,Full Time,Active
+DRV00127,Bhanumati Ramesh,6138564349,DL57379636,16,2.64,Chennai,Full Time,Active
+DRV00128,Waida Misra,9006324765,DL55441906,11,4.35,Nagpur,Full Time,Active
+DRV00129,Rachana Kara,6769207169,DL18833117,19,3.39,Ranchi,Full Time,Active
+DRV00130,Vincent Parmar,8836001621,DL24796081,9,4.76,Ghaziabad,Contract,Active
+DRV00131,Teerth Manne,7828170868,DL15303352,19,3.9,Prayagraj,Partner,Active
+DRV00132,Anika Chopra,8338486046,DL31435663,14,3.15,Agra,Contract,Active
+DRV00133,Indira Mitra,8463147628,DL52242853,3,3.04,Vadodara,Partner,Active
+DRV00134,Abhiram Kala,9758986104,DL27689687,12,3.95,Amritsar,Contract,Active
+DRV00135,Vamakshi Dara,8121749193,DL57438920,3,3.06,Ludhiana,Full Time,Active
+DRV00136,Chanakya Rau,8576796310,DL94283435,4,3.3,Mysuru,Full Time,Inactive
+DRV00137,Neelima Shan,6789439134,DL60123287,5,2.94,Prayagraj,Full Time,Active
+DRV00138,Atharv Raman,9976385596,DL51053227,3,4.36,Bhubaneswar,Contract,Active
+DRV00139,Yashawini Cherian,8723447962,DL96839274,14,3.12,Patna,Partner,Active
+DRV00140,Dayamai Deol,7866935028,DL69011845,8,4.74,Gorakhpur,Contract,Active
+DRV00141,Atharv Raghavan,9645761950,DL39082116,4,3.64,Hyderabad,Full Time,Active
+DRV00142,Brinda Agrawal,7856896923,DL64271869,18,4.89,Indore,Full Time,On Leave
+DRV00143,Faraj Kurian,8606731620,DL70627670,7,3.0,Coimbatore,Full Time,Active
+DRV00144,Ojas Dara,6392949940,DL48554944,11,4.5,Kota,Contract,Active
+DRV00145,Yagnesh Narasimhan,8877245236,DL84591096,17,2.55,Bhubaneswar,Contract,Active
+DRV00146,Suhani Pillai,9056772553,DL95191742,8,4.17,Guwahati,Full Time,Active
+DRV00147,Saumya Bajaj,6807891778,DL67896934,13,3.18,Kota,Partner,Active
+DRV00148,Urvi Baral,6225010943,DL97685496,18,3.19,Ludhiana,Partner,Active
+DRV00149,Daksh Lalla,8064724369,DL14890701,1,3.89,Ahmedabad,Full Time,Inactive
+DRV00150,Zashil Chaudhary,8862150174,DL61413984,5,4.87,Varanasi,Full Time,Active
+DRV00151,Anamika Krishnamurthy,9864331606,DL82000224,3,3.14,Coimbatore,Full Time,Active
+DRV00152,Nirja Shukla,8553644940,DL20414472,15,4.43,Noida,Contract,Active
+DRV00153,Lavanya Borah,8036195511,DL72292502,17,4.33,Raipur,Contract,Active
+DRV00154,Ishanvi Sagar,7971791684,DL71870215,15,3.43,Delhi,Contract,Inactive
+DRV00155,Unni Borah,6819621733,DL42769693,7,3.73,Nagpur,Full Time,Active
+DRV00156,Faris Dar,7889186689,DL72909808,5,4.79,Agra,Partner,Active
+DRV00157,Xalak Savant,7177468133,DL12398962,15,4.87,Hyderabad,Full Time,Inactive
+DRV00158,Kashish Char,8596031422,DL60585180,12,4.26,Mangaluru,Full Time,Active
+DRV00159,Frado Rama,7757135537,DL26609127,18,2.65,Jodhpur,Full Time,Active
+DRV00160,Charan Nigam,6109053283,DL55370236,10,3.04,Kolkata,Contract,Active
+DRV00161,Oscar Bath,7174891883,DL47817066,20,3.46,Kota,Full Time,Active
+DRV00162,Harini Borah,9858422032,DL53536034,14,3.49,Surat,Full Time,Active
+DRV00163,Falguni Devan,7980830077,DL40863233,1,3.48,Kolkata,Full Time,Active
+DRV00164,Noah Dani,7729793528,DL11988439,11,3.28,Chandigarh,Partner,Active
+DRV00165,Laksh Palla,7118529097,DL61589837,15,2.64,Bengaluru,Partner,Active
+DRV00166,Anika Kara,8129518675,DL77692297,19,4.6,Bhopal,Full Time,Active
+DRV00167,Vanya Chandran,8369834841,DL73631909,9,2.78,Delhi,Partner,Active
+DRV00168,Vyanjana Sura,7623274657,DL90478024,18,3.42,Chennai,Partner,Active
+DRV00169,Aarush Datta,6665624365,DL47934261,7,4.34,Bhopal,Contract,Active
+DRV00170,Avni Sem,8863577913,DL98522974,16,3.45,Ahmedabad,Partner,Active
+DRV00171,Lila Char,7946525636,DL60857267,14,3.37,Ghaziabad,Full Time,Active
+DRV00172,Jeremiah Kar,6720671659,DL74301192,10,4.86,Chennai,Contract,Active
+DRV00173,Madhav Nadkarni,8679836156,DL69464918,7,3.6,Kota,Partner,Active
+DRV00174,Siya Seth,8510110592,DL83151922,9,4.86,Prayagraj,Full Time,Active
+DRV00175,Ekapad Gade,8275954268,DL56657438,11,4.24,Guwahati,Partner,Active
+DRV00176,Rishi Deo,8136814352,DL20646516,9,3.62,Kolkata,Partner,Active
+DRV00177,Balhaar Pall,8114724386,DL97443758,10,4.06,Mysuru,Partner,Active
+DRV00178,Warinder Bhardwaj,6341647828,DL79849456,8,3.34,Bengaluru,Full Time,Active
+DRV00179,George Kapadia,6714224289,DL26069113,18,3.01,Kota,Contract,Active
+DRV00180,Charles Patel,6976702630,DL90098555,8,4.19,Coimbatore,Full Time,Active
+DRV00181,Aarnav Gole,7224493613,DL40880434,5,4.32,Agra,Contract,Inactive
+DRV00182,Madhav Hora,6913787601,DL19616551,17,4.78,Amritsar,Full Time,Inactive
+DRV00183,Wyatt Bakshi,6047425500,DL14753096,2,3.81,Indore,Partner,Active
+DRV00184,Divya Majumdar,9060606762,DL55681122,20,3.63,Bhubaneswar,Partner,Active
+DRV00185,Vincent Bail,6073123243,DL85516173,5,4.45,Bhopal,Full Time,Active
+DRV00186,Geetika Swamy,8039346963,DL14814593,14,4.37,Chandigarh,Partner,Active
+DRV00187,Yachana Rastogi,6909377983,DL40553014,8,3.27,Raipur,Full Time,Active
+DRV00188,Triveni Gara,6432257725,DL87595091,12,3.81,Ghaziabad,Full Time,Active
+DRV00189,Advay Nori,7822524212,DL98055967,8,4.02,Ludhiana,Full Time,Active
+DRV00190,Avi Rout,9503081579,DL33895116,3,3.73,Hyderabad,Full Time,Active
+DRV00191,Siya Kadakia,9460418498,DL32948366,15,3.51,Mangaluru,Full Time,Active
+DRV00192,Udant Gara,9544277258,DL17237411,8,3.43,Indore,Contract,Active
+DRV00193,Tanveer Lal,6371167192,DL38573330,10,3.56,Haridwar,Full Time,Active
+DRV00194,Samar Dhawan,6829613924,DL46191828,14,4.39,Ghaziabad,Contract,Active
+DRV00195,Harsh Raj,9634194921,DL84807506,18,4.91,Lucknow,Contract,Active
+DRV00196,Prisha Bera,8634493225,DL72528718,12,2.5,Raipur,Full Time,Active
+DRV00197,Panini Balan,9778734421,DL74178776,6,3.29,Gorakhpur,Contract,Active
+DRV00198,Gaurangi Mitter,9439075741,DL12894761,10,4.28,Surat,Full Time,On Leave
+DRV00199,Pushti Subramaniam,7892765466,DL54820224,13,3.45,Gorakhpur,Partner,Active
+DRV00200,Caleb Prasad,6409971900,DL87099227,16,3.47,Haridwar,Full Time,Active
+DRV00201,Vaishnavi Mane,7767319583,DL77804620,10,2.51,Jodhpur,Contract,Active
+DRV00202,Mason Prakash,6669005449,DL67751237,8,2.76,Surat,Partner,Active
+DRV00203,Yagnesh Cheema,7297779835,DL94837458,17,4.89,Jaipur,Full Time,On Leave
+DRV00204,Pranav Chacko,8421229250,DL74502480,5,4.74,Pune,Full Time,Active
+DRV00205,Kevin Joshi,7271420591,DL98957117,4,4.47,Varanasi,Partner,Active
+DRV00206,Ishanvi Lala,7794225298,DL11700687,7,4.07,Delhi,Full Time,Active
+DRV00207,Bahadurjit Sampath,6835023604,DL36868745,18,3.1,Prayagraj,Full Time,Active
+DRV00208,Yash Purohit,9586340106,DL47313483,14,4.78,Kota,Full Time,Active
+DRV00209,Radha Tara,6260532862,DL22084531,2,4.1,Varanasi,Contract,Inactive
+DRV00210,Aadi Dewan,9478131545,DL44959171,20,3.99,Guwahati,Full Time,Active
+DRV00211,Radha Gade,8744235609,DL54180253,7,3.25,Raipur,Partner,Active
+DRV00212,Edhitha Khalsa,7470017459,DL43131387,10,4.84,Lucknow,Full Time,Active
+DRV00213,Baljiwan Panchal,6684136242,DL87587520,5,3.17,Mysuru,Partner,Active
+DRV00214,Nachiket Sane,9711207986,DL83029271,17,3.2,Pune,Full Time,Active
+DRV00215,Finn Sachar,6752201619,DL35651964,8,2.96,Haridwar,Partner,Active
+DRV00216,Gagan Chaudhry,9720815146,DL64211377,8,3.8,Mumbai,Contract,Active
+DRV00217,Chakradev Suri,6082535574,DL12322757,18,4.45,Nagpur,Full Time,Active
+DRV00218,Aashi Sur,9773937746,DL84039736,17,4.82,Varanasi,Partner,Active
+DRV00219,Leela Muni,7334178484,DL32231232,20,3.15,Kota,Partner,Active
+DRV00220,Anamika Suri,9646731144,DL80034885,8,3.74,Kanpur,Full Time,On Leave
+DRV00221,Yachana Ganesh,6850768790,DL84427811,17,4.64,Bhopal,Full Time,On Leave
+DRV00222,Rajata Mand,8831423183,DL47438597,5,3.14,Patna,Full Time,Inactive
+DRV00223,Vihaan Kari,7391131433,DL67783028,19,3.02,Kochi,Full Time,Active
+DRV00224,Hemang Saha,9419015687,DL16232821,20,4.22,Lucknow,Full Time,Active
+DRV00225,Baljiwan Dhar,8317534192,DL30262929,16,4.57,Noida,Contract,Active
+DRV00226,Chanchal Gara,8838150687,DL86540278,20,4.78,Kota,Partner,Active
+DRV00227,Mohini Kapoor,8211770597,DL19566305,10,2.87,Noida,Full Time,Active
+DRV00228,Warinder Nanda,9582896250,DL15509830,18,3.15,Delhi,Full Time,On Leave
+DRV00229,Qushi Kara,9860839042,DL31975966,5,3.82,Patna,Full Time,Active
+DRV00230,Samar Shenoy,9548929091,DL79165579,5,4.37,Prayagraj,Full Time,Active
+DRV00231,Faris Sawhney,8298824338,DL72484734,12,3.96,Mangaluru,Contract,Active
+DRV00232,Chaman Deshpande,9125579567,DL72396683,15,3.92,Amritsar,Contract,Active
+DRV00233,Jatin Oza,7512018941,DL32563996,19,4.72,Raipur,Contract,Active
+DRV00234,Wridesh Sama,6604683242,DL21574087,15,2.76,Jaipur,Partner,Active
+DRV00235,Varenya Maharaj,6434909022,DL58217207,12,3.14,Mangaluru,Full Time,Active
+DRV00236,Anthony Som,7280670402,DL60698318,16,4.35,Mysuru,Full Time,Active
+DRV00237,Chaman Doshi,8087313778,DL38284616,13,3.03,Kanpur,Full Time,Active
+DRV00238,Advay Kashyap,7493766395,DL42797799,17,4.95,Ludhiana,Contract,Active
+DRV00239,Chaman Lata,8412783737,DL29911214,17,4.94,Raipur,Full Time,Active
+DRV00240,Lajita Sant,8749618498,DL86136937,13,4.53,Bengaluru,Partner,Active
+DRV00241,Shaurya Bala,6543002701,DL71686540,17,3.18,Ahmedabad,Partner,Active
+DRV00242,Madhavi Hegde,9343775328,DL44481454,4,4.78,Coimbatore,Full Time,Active
+DRV00243,Ati Singh,8730246935,DL72505747,7,2.55,Kolkata,Full Time,Active
+DRV00244,Avni Madan,9072152291,DL53512825,17,4.49,Haridwar,Partner,Active
+DRV00245,Bhavna Bedi,8053145876,DL47267984,9,3.18,Patna,Full Time,Active
+DRV00246,Yamini Manne,6367776910,DL15908526,5,4.69,Mangaluru,Full Time,Active
+DRV00247,Sachi Dar,6143343834,DL13166659,8,4.08,Surat,Full Time,On Leave
+DRV00248,Avi Mutti,7186249439,DL92453599,1,4.97,Kolkata,Partner,Active
+DRV00249,Reyansh Kara,9525667486,DL48211970,6,3.34,Mysuru,Partner,Active
+DRV00250,Udarsh Wali,7267333776,DL59134673,1,4.78,Chandigarh,Full Time,Active
+DRV00251,Ronith Chahal,6813117528,DL73477144,3,2.52,Ludhiana,Full Time,Active
+DRV00252,Eshana Din,9962848081,DL46330117,16,2.59,Kochi,Contract,Active
+DRV00253,Wyatt Verma,9618914158,DL17087907,19,3.53,Raipur,Partner,Active
+DRV00254,Gaurika Rajagopalan,9017414229,DL77207105,15,4.17,Gorakhpur,Contract,Active
+DRV00255,Ekaraj Kalita,8950949105,DL42072485,3,3.6,Nagpur,Full Time,Active
+DRV00256,Saksham Chada,6606236877,DL93407554,2,3.96,Ranchi,Full Time,Active
+DRV00257,Isaac Kala,8338186272,DL75127481,5,3.23,Indore,Full Time,Active
+DRV00258,Jagrati Naik,9047037529,DL42312625,7,4.6,Agra,Full Time,Active
+DRV00259,Ethan Dasgupta,9989986763,DL33980707,16,4.26,Vadodara,Contract,Active
+DRV00260,Anamika Sule,9809512077,DL31900949,2,4.25,Varanasi,Contract,Active
+DRV00261,Finn Krish,6198796161,DL76788646,17,4.47,Mangaluru,Full Time,Active
+DRV00262,Gunbir Nagy,6961359219,DL94799465,1,4.81,Patna,Full Time,Active
+DRV00263,Finn Memon,7627098205,DL90866364,13,4.7,Vadodara,Partner,Active
+DRV00264,Chatura Muni,7677038826,DL27129263,2,2.59,Chandigarh,Contract,Active
+DRV00265,Januja Chacko,7366789514,DL68845308,1,2.92,Indore,Full Time,Active
+DRV00266,Dominic Sheth,9985292930,DL71910355,16,2.6,Indore,Full Time,Active
+DRV00267,Krish Pall,7906723792,DL10551555,16,4.63,Nagpur,Full Time,Active
+DRV00268,Darsh Jani,7471171421,DL23849445,18,3.39,Kochi,Full Time,Active
+DRV00269,Gavin Bobal,8324363720,DL77049612,1,3.67,Kochi,Full Time,Active
+DRV00270,Alexander Som,7734476390,DL21232106,15,4.71,Pune,Full Time,Active
+DRV00271,Chaitanya Acharya,9599385970,DL93911686,18,4.97,Guwahati,Partner,Active
+DRV00272,Chandran Kurian,6241957169,DL81134043,10,4.98,Nagpur,Full Time,Active
+DRV00273,Priya Baria,7330750000,DL31393797,4,3.39,Varanasi,Full Time,Active
+DRV00274,Falak Kade,9959992394,DL15481491,14,4.21,Hyderabad,Full Time,Active
+DRV00275,Mason Sant,7898920709,DL72453708,6,4.83,Haridwar,Contract,Active
+DRV00276,Onveer Prabhakar,6541717717,DL83302343,5,4.29,Ludhiana,Partner,Active
+DRV00277,Akshay Lad,8933034782,DL98106850,6,3.66,Hyderabad,Full Time,Active
+DRV00278,Vivaan Sibal,9054500544,DL57321946,3,3.63,Ahmedabad,Contract,Active
+DRV00279,Onkar Patel,7673563646,DL23831396,9,4.73,Indore,Full Time,Active
+DRV00280,Jeremiah Grewal,9033515650,DL15594422,10,4.21,Chennai,Contract,Active
+DRV00281,Amaira Bala,6969654161,DL94443662,19,3.15,Bengaluru,Partner,Active
+DRV00282,Elijah Gole,6034255208,DL19235513,4,2.99,Kolkata,Full Time,Active
+DRV00283,Vrinda Mishra,9690539082,DL36842599,12,2.85,Patna,Full Time,Active
+DRV00284,Anika Char,8954249897,DL96093072,5,3.06,Bhopal,Full Time,Active
+DRV00285,Yoshita Maharaj,6114306691,DL41656060,3,3.02,Amritsar,Full Time,Active
+DRV00286,Isha Kamdar,6880526706,DL79854562,15,4.58,Gorakhpur,Contract,Active
+DRV00287,Irya Mohanty,8216085837,DL34003313,8,4.23,Noida,Full Time,Active
+DRV00288,Lila Bajaj,7356927089,DL20661195,18,2.81,Mangaluru,Partner,Active
+DRV00289,Rajeshri Subramanian,8381533123,DL95897858,10,4.37,Mysuru,Full Time,Active
+DRV00290,Yauvani Natarajan,7611867516,DL42250456,3,4.3,Kochi,Full Time,Active
+DRV00291,Raghav Dora,8205514998,DL54632028,4,4.49,Ludhiana,Partner,Active
+DRV00292,Gayathri Parekh,7837408814,DL40010104,8,4.08,Pune,Full Time,Active
+DRV00293,Nitesh Wadhwa,8703138595,DL30593348,18,2.72,Ranchi,Partner,Active
+DRV00294,Chandani Menon,9060659264,DL27931410,15,3.47,Mysuru,Full Time,Inactive
+DRV00295,Anusha Sarkar,8629651781,DL70910142,9,2.5,Mumbai,Full Time,Active
+DRV00296,Ekalinga Choudhary,9142944302,DL17308230,11,3.97,Indore,Contract,Active
+DRV00297,Mugdha Dua,8750802275,DL18524600,12,2.53,Patna,Full Time,Active
+DRV00298,Nidhi Chowdhury,6382522163,DL89813296,16,3.43,Kolkata,Full Time,Active
+DRV00299,Ranbir Khatri,6764909607,DL79054501,18,4.15,Lucknow,Partner,Active
+DRV00300,Sarthak Sagar,6380179252,DL45885737,20,4.72,Kota,Full Time,Active
+DRV00301,Ladli Parmar,8262713392,DL94705999,5,3.47,Lucknow,Contract,Active
+DRV00302,Sanya Oommen,7506680862,DL67500537,13,3.24,Patna,Contract,Active
+DRV00303,Chakradhar Buch,7332550737,DL14028772,19,3.28,Indore,Partner,Active
+DRV00304,Baghyawati Shenoy,6345911739,DL39321217,1,3.82,Coimbatore,Partner,Active
+DRV00305,Pavani Garde,9285191308,DL74584297,15,3.36,Ludhiana,Full Time,Active
+DRV00306,Pooja Shan,6614558915,DL24521669,13,2.62,Ahmedabad,Full Time,Active
+DRV00307,Ranbir Bandi,9626977564,DL89068692,4,3.46,Delhi,Partner,Active
+DRV00308,Krishna Barad,9995526942,DL26422980,6,4.66,Nashik,Contract,Active
+DRV00309,Oviya Bahl,8472462482,DL20058656,4,4.04,Raipur,Partner,Active
+DRV00310,Sneha Krishnan,9446105278,DL23921292,14,3.38,Agra,Full Time,Active
+DRV00311,Odika Khanna,7462338309,DL92031630,1,3.87,Haridwar,Contract,Active
+DRV00312,Omkaar Oommen,6025355763,DL77869679,7,4.05,Varanasi,Contract,Active
+DRV00313,Anirudh Shukla,6515223436,DL74627471,20,3.5,Gorakhpur,Contract,Active
+DRV00314,Ethan D’Alia,7549272137,DL10248421,17,2.51,Surat,Contract,Active
+DRV00315,Tanish Atwal,6627926604,DL61482969,18,4.56,Chennai,Contract,Active
+DRV00316,Maanav Sood,9351202167,DL86673160,6,3.26,Haridwar,Partner,Active
+DRV00317,Abdul Kara,9728937674,DL64816658,9,4.06,Mumbai,Full Time,Active
+DRV00318,Fitan Sahota,6340760038,DL44592088,15,4.24,Dehradun,Contract,Active
+DRV00319,Vasana Ghosh,6876478593,DL66991963,15,3.31,Nashik,Full Time,Active
+DRV00320,Utkarsh Kaul,8472755185,DL18559789,20,4.89,Bhubaneswar,Full Time,Active
+DRV00321,Chaitaly Batta,9018286854,DL87073436,11,4.07,Prayagraj,Contract,Active
+DRV00322,Eesha Swamy,7190589985,DL86593264,20,4.34,Noida,Contract,Active
+DRV00323,Kevin Manda,9168917115,DL22504962,3,2.79,Mysuru,Full Time,Active
+DRV00324,Yash Sehgal,7245427600,DL27070350,2,3.61,Nashik,Full Time,Active
+DRV00325,Ishanvi Vora,6404976804,DL70224349,12,4.08,Bengaluru,Full Time,Active
+DRV00326,Shaurya Rattan,7370286774,DL68939804,10,4.55,Delhi,Full Time,Active
+DRV00327,Aarush Dubey,8581054010,DL87824086,19,3.15,Coimbatore,Partner,Active
+DRV00328,Waida Murthy,9709761549,DL72107294,5,4.71,Kochi,Contract,Active
+DRV00329,Warjas Chaudry,8883117704,DL52839114,2,4.49,Bengaluru,Full Time,Active
+DRV00330,Udyati Chawla,9310959858,DL31454949,19,2.83,Ludhiana,Full Time,Active
+DRV00331,Jatin Dasgupta,6497032839,DL71581307,6,3.44,Nagpur,Partner,Active
+DRV00332,Abdul Khurana,6045277554,DL81475605,1,3.71,Haridwar,Contract,Active
+DRV00333,Upadhriti Reddy,7400426502,DL43880831,5,2.77,Varanasi,Partner,Active
+DRV00334,Darika Sarin,6933351909,DL57593728,10,4.16,Patna,Full Time,Active
+DRV00335,Avi Pau,6274025119,DL68493587,4,3.87,Haridwar,Full Time,Active
+DRV00336,Manthan Sandhu,8315431284,DL19101417,7,4.4,Kolkata,Contract,Active
+DRV00337,Bakhshi Ben,8083816211,DL54831925,6,3.07,Chennai,Contract,Active
+DRV00338,Jagrati Thaker,6843203273,DL90584553,3,2.81,Ludhiana,Full Time,Active
+DRV00339,Ganga Kapur,8594185300,DL10235710,6,4.89,Patna,Full Time,Active
+DRV00340,Anthony Khatri,6403907492,DL26593341,18,3.42,Agra,Full Time,Active
+DRV00341,Maanav Vora,6600463800,DL29886132,10,3.4,Bengaluru,Full Time,Active
+DRV00342,Kamya Gaba,9377877020,DL47447108,3,3.37,Coimbatore,Contract,Active
+DRV00343,Jeremiah Oza,6710235662,DL65237678,20,2.65,Patna,Full Time,Active
+DRV00344,Champak Garg,8993682981,DL87425036,17,3.02,Vadodara,Contract,Active
+DRV00345,Ria Kala,6842077624,DL47296598,5,4.95,Mangaluru,Partner,Active
+DRV00346,Gaurika Varghese,7639786128,DL62188994,15,4.14,Dehradun,Full Time,Active
+DRV00347,Ijaya Seth,7318410131,DL78418045,14,4.07,Nashik,Contract,Active
+DRV00348,Jhalak Dutta,6027753129,DL92866978,10,3.11,Haridwar,Full Time,Active
+DRV00349,Gaurangi Samra,8223145592,DL37124693,9,4.29,Prayagraj,Full Time,Active
+DRV00350,Ria Bhasin,7254457315,DL90416532,18,3.27,Kolkata,Full Time,Active
+DRV00351,Rajata Gulati,8009068741,DL72730678,6,2.52,Nagpur,Full Time,Active
+DRV00352,Vyanjana Dugar,9480032903,DL75840556,3,2.77,Ahmedabad,Full Time,Active
+DRV00353,Edhitha Uppal,8214965473,DL96623860,16,3.85,Surat,Contract,Active
+DRV00354,Amaira Walla,9205624173,DL99751482,4,4.36,Agra,Contract,Active
+DRV00355,Warhi Bath,9722569856,DL79418536,7,2.93,Gorakhpur,Partner,Active
+DRV00356,Krishna Murthy,7198644541,DL64988715,19,3.32,Indore,Full Time,Active
+DRV00357,Vritti Ravi,6624451100,DL41688735,18,4.08,Delhi,Full Time,Active
+DRV00358,Ishanvi Kapadia,7920667808,DL56575747,9,2.59,Ludhiana,Full Time,Active
+DRV00359,Sathvik Nayar,9094773633,DL31612741,17,3.63,Kolkata,Contract,Active
+DRV00360,Jagat Om,9052959137,DL15107083,1,4.62,Chandigarh,Partner,Active
+DRV00361,Madhav Pandit,7465870614,DL91021339,12,4.24,Nagpur,Full Time,Active
+DRV00362,Arunima Bava,6420442411,DL55759358,20,3.9,Noida,Full Time,Active
+DRV00363,Hemang Bakshi,8997223108,DL44888215,14,4.22,Ranchi,Partner,Active
+DRV00364,Hiral Natt,9529547622,DL94895740,5,4.8,Chandigarh,Partner,Active
+DRV00365,Atharv Master,8262597922,DL45122230,14,2.83,Ghaziabad,Full Time,On Leave
+DRV00366,Nathaniel Banerjee,7551814512,DL98883310,6,2.84,Dehradun,Full Time,Active
+DRV00367,Faras Deshpande,9261200924,DL34802985,13,2.77,Patna,Full Time,Active
+DRV00368,Gavin Kumer,9377289899,DL51608667,11,3.08,Amritsar,Partner,Active
+DRV00369,Qabil Dara,8771249089,DL50127596,5,3.1,Agra,Partner,Active
+DRV00370,Samesh Sarraf,8561567138,DL77583486,13,2.51,Bhubaneswar,Full Time,Active
+DRV00371,Gaurav Dhaliwal,9776481806,DL44624022,10,4.67,Guwahati,Full Time,Active
+DRV00372,Leela Atwal,9313547089,DL23382781,15,4.22,Kota,Full Time,Active
+DRV00373,Abhiram Kakar,7578708519,DL85477466,20,3.66,Noida,Full Time,Active
+DRV00374,Meghana Kari,8704117342,DL32104377,3,3.88,Gorakhpur,Partner,Inactive
+DRV00375,Sanya Sood,6771575050,DL31333871,8,4.58,Ranchi,Full Time,Active
+DRV00376,Siya Samra,7556916018,DL94230495,9,4.76,Ghaziabad,Contract,Active
+DRV00377,Jhalak Bhattacharyya,7627055866,DL52540424,15,2.74,Vadodara,Full Time,Active
+DRV00378,Indrajit Divan,9667408821,DL70269108,20,3.98,Patna,Partner,Inactive
+DRV00379,Ekansh Kashyap,7470290134,DL24200282,15,4.21,Ludhiana,Full Time,Active
+DRV00380,Hitesh Chakrabarti,8253422474,DL82588691,1,4.39,Coimbatore,Full Time,Active
+DRV00381,Xavier Kale,7720017295,DL82208261,16,2.79,Hyderabad,Full Time,Active
+DRV00382,Pavani Bhatia,8618932580,DL52112601,1,4.43,Kota,Contract,Active
+DRV00383,Onveer Bumb,6645382202,DL34526195,18,2.65,Pune,Full Time,Active
+DRV00384,Upkaar Brar,8354318425,DL38405016,2,2.87,Agra,Partner,Active
+DRV00385,Gavin Karpe,6515848773,DL40481768,7,3.03,Patna,Partner,Active
+DRV00386,Daniel Balasubramanian,7453114756,DL28714246,7,4.74,Mumbai,Contract,Inactive
+DRV00387,Vedant Mane,8950792722,DL80262450,16,3.89,Mumbai,Partner,Active
+DRV00388,Abdul Raj,7011983795,DL35733597,4,4.66,Kolkata,Contract,Active
+DRV00389,Jagat Mangal,9802400799,DL96582339,2,2.75,Bhopal,Full Time,Active
+DRV00390,Agastya Nigam,8268929866,DL25540849,9,4.73,Ghaziabad,Full Time,Active
+DRV00391,Chameli Acharya,8815387507,DL87501407,9,3.67,Vadodara,Full Time,Active
+DRV00392,Ekta Yohannan,8434128770,DL21644611,19,4.67,Jodhpur,Partner,Active
+DRV00393,Warinder Nath,9331493144,DL81370817,10,2.71,Jodhpur,Full Time,Active
+DRV00394,Ucchal Bakshi,8575574905,DL54112871,15,4.18,Amritsar,Contract,Active
+DRV00395,Bimala Doctor,7816085164,DL25146681,6,4.34,Kolkata,Full Time,Active
+DRV00396,Chasmum Bains,6287238066,DL38556709,7,3.74,Pune,Full Time,On Leave
+DRV00397,Chakrika Lalla,8364934365,DL88121684,20,4.3,Noida,Partner,Active
+DRV00398,Laksh Nayar,9144656706,DL73183609,20,2.69,Lucknow,Full Time,Active
+DRV00399,Yoshita Narayan,9088179098,DL35441226,10,3.86,Amritsar,Contract,Active
+DRV00400,Harinakshi Chander,9756061604,DL61676632,16,3.96,Nagpur,Contract,Active
+DRV00401,Azad Natarajan,8096632574,DL28234623,14,4.23,Bhubaneswar,Full Time,Active
+DRV00402,Hema Nigam,8248444381,DL91653571,19,4.4,Ghaziabad,Full Time,Active
+DRV00403,Chatura Bajwa,8768059948,DL69928955,3,4.8,Ahmedabad,Full Time,Active
+DRV00404,Siya Brahmbhatt,6111006346,DL13758210,20,2.78,Guwahati,Contract,Inactive
+DRV00405,Ijaya Raja,8000496177,DL69408520,8,3.27,Chennai,Contract,Active
+DRV00406,Henry Wagle,8850289908,DL65145635,12,2.61,Bengaluru,Full Time,Active
+DRV00407,Ranveer Oak,9084653147,DL23670812,10,4.74,Prayagraj,Full Time,Inactive
+DRV00408,Rachit Prashad,9383509344,DL29032598,4,3.18,Bhubaneswar,Full Time,Active
+DRV00409,Saanvi Sarma,6073736140,DL45277468,7,2.74,Chandigarh,Partner,Active
+DRV00410,Onkar Wali,7027660512,DL35544213,2,3.24,Lucknow,Partner,Active
+DRV00411,Upadhriti Bajaj,8730604588,DL40280094,8,4.5,Agra,Full Time,Inactive
+DRV00412,Yasti Srinivas,8698682243,DL96933917,8,3.18,Guwahati,Partner,Active
+DRV00413,Hemal Krish,9356143912,DL36896377,18,3.5,Nashik,Full Time,Active
+DRV00414,Ikbal Batta,9797956313,DL14069308,3,3.16,Nashik,Full Time,Active
+DRV00415,Isha Nayak,6427974553,DL40828364,10,2.7,Kochi,Full Time,Active
+DRV00416,Lila Date,8785006118,DL44523520,5,3.26,Raipur,Partner,Active
+DRV00417,Manbir Mitter,8275646240,DL15568781,14,2.82,Gorakhpur,Partner,Active
+DRV00418,Raagini Sankaran,6536309212,DL24867144,2,2.93,Nagpur,Contract,Inactive
+DRV00419,Lakshit Dutta,8409380374,DL35841949,15,4.86,Kochi,Contract,Active
+DRV00420,Tanish Kari,6230543906,DL20666585,1,2.84,Ghaziabad,Contract,Active
+DRV00421,Ekiya Andra,7224582460,DL24650530,5,4.59,Varanasi,Partner,Active
+DRV00422,Mason Varughese,8640974079,DL10834261,5,4.24,Ranchi,Contract,Active
+DRV00423,Sanya Loyal,9147043245,DL70560487,4,3.1,Mumbai,Partner,Active
+DRV00424,Gayathri Sarma,7379331234,DL40302995,2,4.63,Jodhpur,Contract,Active
+DRV00425,Thomas Chaudry,6984099086,DL71498010,3,2.86,Kochi,Contract,Active
+DRV00426,Warinder Chaudhuri,7467898427,DL48907181,9,4.7,Indore,Contract,Active
+DRV00427,Faris Chadha,8380575195,DL42532946,20,4.64,Kota,Full Time,Active
+DRV00428,Inaya Nair,9426443133,DL69389744,10,3.81,Prayagraj,Contract,Active
+DRV00429,Lopa Venkataraman,7717767117,DL17258878,18,3.38,Kochi,Full Time,Active
+DRV00430,Manbir Radhakrishnan,8217343829,DL69647020,6,4.43,Coimbatore,Contract,Active
+DRV00431,Ekavir Garde,6599751265,DL27680713,10,3.37,Ahmedabad,Full Time,On Leave
+DRV00432,Arunima Raval,9774126403,DL96716631,6,2.98,Jodhpur,Full Time,Active
+DRV00433,Christopher Chaudhari,8251561616,DL98854772,7,2.74,Bengaluru,Full Time,Active
+DRV00434,Yashodhara Kapadia,6195069967,DL52136265,3,4.88,Lucknow,Full Time,Active
+DRV00435,Rushil Kara,7001969825,DL62851891,1,4.64,Delhi,Full Time,Active
+DRV00436,Faraj Khatri,8351898462,DL55935740,4,4.0,Haridwar,Full Time,Inactive
+DRV00437,Imaran Bajaj,9378149879,DL19321233,16,2.62,Kochi,Contract,Active
+DRV00438,Lucky Ganesan,9852523261,DL83413105,14,4.55,Ghaziabad,Contract,Inactive
+DRV00439,Harinakshi Mani,9642784914,DL80701834,19,3.12,Jodhpur,Contract,Active
+DRV00440,Upkaar Luthra,6766616237,DL65235087,15,4.37,Chandigarh,Full Time,Active
+DRV00441,Oviya Nori,9338756952,DL62144130,1,2.55,Surat,Contract,Active
+DRV00442,Chakradhar Talwar,8698804958,DL35915151,14,2.91,Lucknow,Full Time,Active
+DRV00443,Wazir Bandi,8262306299,DL52727425,15,3.52,Agra,Full Time,Inactive
+DRV00444,Azad Rai,6519667784,DL56875327,9,2.69,Ghaziabad,Full Time,Active
+DRV00445,Daksh Kadakia,8554929900,DL71699286,5,3.7,Chandigarh,Partner,Active
+DRV00446,Ryan Buch,8944789278,DL51141625,20,3.63,Gorakhpur,Contract,Active
+DRV00447,Arin Kade,9741291365,DL73412554,20,2.92,Amritsar,Contract,Active
+DRV00448,Abeer D’Alia,8904237192,DL13206038,15,3.97,Chennai,Partner,Active
+DRV00449,Janya Narain,7215207712,DL66272783,17,4.23,Chennai,Full Time,Active
+DRV00450,Gaurav Peri,9840909556,DL70418001,7,4.26,Noida,Full Time,Active
+DRV00451,Mekhala Narang,7800509306,DL73362675,3,3.99,Kanpur,Contract,Active
+DRV00452,Leena Toor,9130036830,DL92559656,7,3.88,Nagpur,Contract,Active
+DRV00453,Neelima Dada,9542424019,DL83460557,16,4.24,Vadodara,Full Time,Active
+DRV00454,Advay Kade,9159493570,DL64077004,1,2.81,Pune,Full Time,Active
+DRV00455,Yug Nanda,6377959675,DL56149864,18,3.47,Hyderabad,Full Time,Active
+DRV00456,Upadhriti Dash,6666508789,DL20945556,5,3.04,Noida,Full Time,Active
+DRV00457,Daksha Tella,9187924108,DL25998497,15,3.63,Kochi,Partner,Active
+DRV00458,Rachita Banik,6438017808,DL17256755,10,4.92,Chennai,Full Time,Active
+DRV00459,Christopher Chana,6324977634,DL91463130,9,4.8,Mumbai,Contract,Active
+DRV00460,Nimrat Kamdar,7819356759,DL42907432,17,4.91,Lucknow,Full Time,Active
+DRV00461,Yadavi Khatri,8767264579,DL71646258,10,4.78,Hyderabad,Contract,Active
+DRV00462,Zansi Saraf,6478759822,DL96155874,16,4.08,Dehradun,Full Time,Active
+DRV00463,Bhavika Gaba,8343118014,DL90645697,7,4.35,Ludhiana,Full Time,On Leave
+DRV00464,Tanveer Talwar,9124095651,DL80146877,2,3.14,Surat,Full Time,Inactive
+DRV00465,Mitesh Chaudhuri,7364367088,DL21943871,5,2.69,Ranchi,Contract,Active
+DRV00466,Jairaj Palla,6129655874,DL26456465,3,4.46,Coimbatore,Full Time,Active
+DRV00467,Avi Nazareth,7610300598,DL50964248,12,4.0,Ludhiana,Contract,On Leave
+DRV00468,Barkha Grewal,7540209342,DL33917204,7,4.33,Hyderabad,Full Time,Active
+DRV00469,Hitesh Ahuja,6480829755,DL59588466,4,2.63,Kota,Full Time,Active
+DRV00470,Chandani Ganesan,9863700348,DL95574860,10,3.37,Ranchi,Full Time,Active
+DRV00471,Vrishti Gopal,7687968219,DL56077999,18,3.0,Mangaluru,Partner,Active
+DRV00472,Saanvi Bhasin,8754178055,DL38674180,5,2.74,Surat,Partner,Inactive
+DRV00473,Waida Iyer,8479881848,DL20851916,2,3.32,Kanpur,Full Time,Active
+DRV00474,Hritik Handa,9455238515,DL86831218,18,3.58,Noida,Partner,Active
+DRV00475,Luke Rastogi,7597827309,DL55677805,5,4.62,Gorakhpur,Contract,Active
+DRV00476,Alexander Zachariah,9333174221,DL65391454,14,2.97,Kota,Contract,Active
+DRV00477,Janaki Bhatia,6485558917,DL25517446,18,4.54,Jaipur,Contract,Active
+DRV00478,Christopher Sengupta,7781989405,DL21866813,9,4.72,Ranchi,Contract,Active
+DRV00479,Pallavi Cherian,7862710311,DL94876283,8,4.15,Kolkata,Contract,Active
+DRV00480,Ansh Shroff,6519205180,DL27229187,10,2.52,Kota,Contract,Active
+DRV00481,Ekalinga Ray,8192799597,DL55592071,20,4.24,Delhi,Partner,Active
+DRV00482,Gabriel Venkataraman,7095521871,DL62258110,12,3.62,Ahmedabad,Full Time,On Leave
+DRV00483,Wishi Wagle,9237613494,DL14508971,8,3.64,Mysuru,Full Time,Inactive
+DRV00484,Nitara Gaba,7199870602,DL61812473,10,3.66,Ludhiana,Partner,Active
+DRV00485,Ansh Sankaran,9432218793,DL23710941,17,2.79,Bengaluru,Partner,Active
+DRV00486,Yutika Kapur,6602450284,DL64846508,12,2.99,Vadodara,Contract,Active
+DRV00487,Lavanya Bora,6433513343,DL88684186,8,4.13,Nagpur,Contract,Active
+DRV00488,Manya Naik,6669667341,DL64387084,6,2.97,Varanasi,Contract,Active
+DRV00489,Rachit Guha,6390910825,DL94660021,5,4.23,Surat,Full Time,Active
+DRV00490,Aayush Sanghvi,8533813563,DL31422784,11,3.21,Ranchi,Full Time,Active
+DRV00491,Benjamin Barman,8968740264,DL39827594,16,4.23,Raipur,Contract,Active
+DRV00492,Jacob Rama,7433159694,DL70347867,18,2.53,Kochi,Full Time,Active
+DRV00493,Balveer Shah,9888657119,DL97888357,8,3.38,Hyderabad,Contract,Active
+DRV00494,Samuel Ganesan,6326288842,DL90166336,20,3.88,Patna,Contract,Active
+DRV00495,Chameli Puri,6149548038,DL58461988,11,4.89,Noida,Full Time,Active
+DRV00496,Idika Chada,8480055229,DL98391790,15,3.11,Agra,Full Time,Active
+DRV00497,Matthew Hora,9748963500,DL62963320,19,4.28,Noida,Contract,Active
+DRV00498,Ojas Dutta,6997622510,DL40653678,17,4.43,Haridwar,Full Time,Active
+DRV00499,Yashawini Kala,9983566852,DL45256412,1,4.84,Surat,Partner,Inactive
+DRV00500,Mohammed Balasubramanian,6392218316,DL46375885,10,3.15,Chennai,Full Time,Inactive
+DRV00501,Wyatt Nanda,8763048636,DL47866806,5,4.95,Vadodara,Partner,Inactive
+DRV00502,Deepa Koshy,9073035125,DL80465677,14,4.7,Surat,Full Time,Active
+DRV00503,Gavin Memon,8336427105,DL63528140,18,4.89,Haridwar,Partner,Active
+DRV00504,Zashil More,6575893680,DL19871443,19,2.61,Noida,Full Time,Active
+DRV00505,Gaurav Chandra,7862127258,DL43212690,5,4.44,Chandigarh,Full Time,Active
+DRV00506,Bina Madan,7467599035,DL88443546,2,3.32,Bhopal,Full Time,Inactive
+DRV00507,Zayyan Goyal,8587150028,DL58873296,6,4.43,Noida,Full Time,Active
+DRV00508,Jeremiah Narang,7490656736,DL94356497,6,3.22,Kolkata,Contract,On Leave
+DRV00509,Avi Mody,9254949425,DL25047613,15,4.32,Guwahati,Contract,Active
+DRV00510,Madhav Mall,7178492600,DL85170570,12,2.54,Amritsar,Full Time,Active
+DRV00511,Mohammed Dugar,6094628914,DL58848749,18,4.84,Mumbai,Partner,Active
+DRV00512,Jeremiah Raju,7071156483,DL71175270,13,3.07,Ranchi,Full Time,Active
+DRV00513,Anmol Palla,6980219239,DL31641028,16,4.32,Dehradun,Contract,Active
+DRV00514,Chandran Subramaniam,8386383954,DL13240797,4,3.66,Agra,Full Time,Active
+DRV00515,Tanay Talwar,6061128685,DL35299944,15,3.33,Mumbai,Full Time,On Leave
+DRV00516,Jagat Ganesan,7528467596,DL79428157,15,4.71,Varanasi,Full Time,Active
+DRV00517,Bhanumati Chaudhari,8931748654,DL31421451,7,3.34,Guwahati,Contract,Active
+DRV00518,Manya Patla,7932980922,DL31030223,2,2.84,Ranchi,Partner,Active
+DRV00519,Akshay Bhardwaj,7691940775,DL29963614,18,3.97,Nagpur,Full Time,Active
+DRV00520,Wriddhish Vora,9110623992,DL63189456,11,4.37,Patna,Full Time,Active
+DRV00521,Parth Zacharia,6200549356,DL48340655,20,4.7,Mysuru,Contract,Active
+DRV00522,Lipika Datta,9506619785,DL68924883,1,3.54,Jodhpur,Contract,Active
+DRV00523,Aadhya Mahajan,6643185016,DL81953885,9,4.76,Mysuru,Full Time,Active
+DRV00524,Bina Nanda,9311175214,DL93240451,7,2.98,Bhopal,Full Time,Active
+DRV00525,Michael Buch,8212970128,DL14164396,4,4.25,Prayagraj,Partner,Active
+DRV00526,Meera Ranganathan,7019240460,DL76314836,6,4.94,Raipur,Partner,Active
+DRV00527,Pranit Roy,8151950653,DL57424254,19,2.94,Guwahati,Partner,Active
+DRV00528,Baljiwan Soman,8437967183,DL14196374,10,3.76,Prayagraj,Full Time,Active
+DRV00529,Girish Seshadri,8465187746,DL27274637,1,4.83,Chennai,Contract,Active
+DRV00530,Baghyawati Behl,8291439915,DL45219859,6,4.06,Nagpur,Contract,Active
+DRV00531,Abhiram Chander,6706956094,DL34910023,16,3.09,Bhopal,Contract,Active
+DRV00532,George Kamdar,7927201738,DL33217374,3,3.9,Bhubaneswar,Contract,Active
+DRV00533,Nitesh Deshmukh,7560887408,DL52685602,13,2.7,Kanpur,Partner,Inactive
+DRV00534,Bakhshi Borra,9230914571,DL67046664,16,4.52,Ghaziabad,Full Time,Active
+DRV00535,Warhi Apte,9352947013,DL97652484,9,4.65,Coimbatore,Full Time,Active
+DRV00536,Xiti Patla,9367221010,DL10672883,14,3.88,Hyderabad,Contract,Active
+DRV00537,Manya Chokshi,9960886082,DL23734767,17,2.86,Haridwar,Contract,Active
+DRV00538,Advay Sharaf,6406884986,DL49796897,11,4.18,Amritsar,Contract,Active
+DRV00539,Naksh Ghose,7557745527,DL35771813,6,2.74,Vadodara,Full Time,Active
+DRV00540,Upma Pai,9959813778,DL18973604,18,3.76,Hyderabad,Partner,Active
+DRV00541,Aayush Chandran,7611519974,DL66297418,17,4.29,Mumbai,Contract,Active
+DRV00542,Vivaan Garg,9948780337,DL11307828,11,4.44,Mumbai,Contract,Active
+DRV00543,Pranav Varghese,8479122693,DL11876391,17,4.57,Vadodara,Full Time,Active
+DRV00544,Samuel Sarraf,9595656971,DL24363745,12,3.06,Pune,Full Time,Active
+DRV00545,Jatin Nath,8610663283,DL82432478,5,4.56,Kota,Partner,Active
+DRV00546,Balendra Mahajan,8919036379,DL40915818,3,2.86,Noida,Full Time,Active
+DRV00547,Yashica Dugal,6513578333,DL27794454,2,3.81,Vadodara,Contract,Active
+DRV00548,Jagdish Ahluwalia,7104353723,DL41057032,8,3.05,Kochi,Full Time,Active
+DRV00549,Nachiket Mahajan,9740417065,DL31351053,19,3.46,Haridwar,Partner,Active
+DRV00550,Tarak Seshadri,9776592853,DL54712582,8,2.83,Nashik,Full Time,Active
+DRV00551,Ekapad Gala,7828084617,DL83513471,3,3.95,Kota,Full Time,Active
+DRV00552,Jatin Mammen,7430293024,DL49604104,7,4.93,Mumbai,Contract,Inactive
+DRV00553,Kala Sridhar,7362281126,DL35932355,9,4.58,Prayagraj,Contract,Active
+DRV00554,Elijah Zachariah,7725577020,DL75816271,12,4.84,Chandigarh,Contract,Active
+DRV00555,Jonathan Rastogi,9641680167,DL83262328,14,3.15,Kochi,Full Time,Active
+DRV00556,Lakshit Parmar,8410415825,DL39323372,1,4.27,Dehradun,Full Time,Active
+DRV00557,Chanchal Kalita,8665190097,DL25404799,6,2.6,Bhubaneswar,Contract,Active
+DRV00558,Zayan Bakshi,6584064849,DL85819396,15,3.02,Bhopal,Contract,Active
+DRV00559,Ekaja Hayer,6354677284,DL10872084,12,2.83,Hyderabad,Partner,Active
+DRV00560,Elijah Kothari,8287938806,DL93611815,7,3.99,Ghaziabad,Full Time,Active
+DRV00561,Barkha Choudhary,9707094413,DL85551572,10,3.83,Ludhiana,Contract,Active
+DRV00562,Veda Nori,8447073720,DL34437521,4,2.99,Chandigarh,Contract,Active
+DRV00563,Faris Sura,9381705361,DL11248669,2,4.56,Patna,Full Time,Active
+DRV00564,Gabriel Menon,7807744950,DL98554144,16,2.54,Haridwar,Full Time,Active
+DRV00565,Mohammed Kulkarni,7933863306,DL93026763,11,3.79,Jodhpur,Full Time,Active
+DRV00566,Vanya Lanka,9643988414,DL17935658,2,3.03,Mangaluru,Full Time,Active
+DRV00567,Amol Butala,9841495526,DL27279807,3,3.21,Kochi,Full Time,Active
+DRV00568,Simon Cherian,9840735767,DL18281705,3,4.54,Bhopal,Full Time,Active
+DRV00569,Varenya Dugar,7648567747,DL99700678,4,4.49,Kanpur,Full Time,Inactive
+DRV00570,Dakshesh Anne,8426546845,DL31504366,7,2.72,Ludhiana,Partner,Active
+DRV00571,Xavier Karnik,9121052556,DL86392873,18,2.85,Ghaziabad,Contract,Active
+DRV00572,Maanas Oak,6766355098,DL62447076,14,4.6,Coimbatore,Partner,Active
+DRV00573,Vihaan Thaker,9803995489,DL86855282,13,3.12,Haridwar,Partner,Active
+DRV00574,Wriddhish Bajwa,7778083178,DL47460391,12,2.7,Raipur,Full Time,Active
+DRV00575,Kashvi Arya,9714123087,DL65809393,9,3.43,Coimbatore,Contract,Active
+DRV00576,Rohan Babu,8929823266,DL95235915,18,3.59,Kolkata,Contract,Active
+DRV00577,Liam Bath,8186644717,DL31051922,11,3.44,Vadodara,Full Time,Active
+DRV00578,Kabir Bose,9433170748,DL26164679,4,2.78,Vadodara,Full Time,Active
+DRV00579,Devika Bains,6505592101,DL71377108,15,2.65,Mysuru,Full Time,Active
+DRV00580,Abeer Din,9759475205,DL23862286,18,2.91,Chandigarh,Full Time,Active
+DRV00581,Sai Kuruvilla,8100520503,DL20309703,16,4.5,Dehradun,Full Time,Active
+DRV00582,Samarth Lall,6869397897,DL39561804,19,4.12,Patna,Partner,Active
+DRV00583,Naksh Viswanathan,8784074938,DL71474549,10,3.53,Mumbai,Contract,Active
+DRV00584,Yamini Samra,8118429308,DL25825423,9,2.67,Jaipur,Full Time,Active
+DRV00585,Gaurika Behl,6841034777,DL83076216,19,2.5,Agra,Contract,Active
+DRV00586,Aayush Apte,7687505861,DL76167138,6,2.69,Amritsar,Full Time,Active
+DRV00587,Hiral Sandal,8912472249,DL57676514,8,4.16,Pune,Full Time,Active
+DRV00588,Chaaya Das,7728270879,DL67189515,11,4.06,Hyderabad,Full Time,Active
+DRV00589,Anika Bala,8148244008,DL38105505,19,3.84,Vadodara,Full Time,Active
+DRV00590,Naveen Raval,6041744984,DL70219783,13,4.4,Raipur,Partner,Inactive
+DRV00591,Dalbir Nazareth,9825370475,DL64695580,4,2.95,Agra,Contract,Active
+DRV00592,Dakshesh Chatterjee,6948341687,DL92617953,18,3.03,Ranchi,Full Time,Active
+DRV00593,Wridesh Kulkarni,7443999540,DL89241003,4,4.56,Haridwar,Contract,Active
+DRV00594,Manbir Deol,9534171957,DL58922928,14,3.76,Mangaluru,Partner,Active
+DRV00595,Sanya Narula,7671040786,DL80990651,5,3.38,Dehradun,Full Time,Active
+DRV00596,Widisha Wagle,9932858920,DL81133677,6,4.98,Haridwar,Contract,Active
+DRV00597,Krisha Gill,8107023621,DL62246879,16,2.62,Kochi,Full Time,On Leave
+DRV00598,Daksha Dhillon,7643203078,DL81708825,12,4.23,Mumbai,Full Time,Active
+DRV00599,Shravya Sampath,8253240733,DL56173675,1,3.58,Jodhpur,Contract,Active
+DRV00600,Samesh Goswami,8590705932,DL52708757,3,3.99,Kanpur,Partner,Active
+DRV00601,Jeremiah Iyer,7353319021,DL80479269,1,4.34,Nagpur,Full Time,Active
+DRV00602,Samuel Arya,8575372125,DL16681925,11,4.11,Mangaluru,Contract,Active
+DRV00603,Yamini Raman,8286451243,DL19120194,17,4.68,Guwahati,Contract,Active
+DRV00604,Jagrati Kumar,8201477739,DL50137160,20,4.62,Jaipur,Full Time,Active
+DRV00605,Anvi Batra,8717042278,DL19129054,5,2.91,Nagpur,Contract,Active
+DRV00606,Irya Sura,7079793389,DL67605936,7,3.0,Indore,Partner,Active
+DRV00607,Jhalak Krishnamurthy,9857766878,DL17952427,20,4.61,Ludhiana,Full Time,Active
+DRV00608,David Natarajan,9375181858,DL77889608,20,3.59,Lucknow,Full Time,Active
+DRV00609,Pallavi Barad,6945266043,DL36793938,16,3.21,Ghaziabad,Partner,Active
+DRV00610,Yatin Jha,8122134289,DL38507426,12,3.56,Nagpur,Full Time,On Leave
+DRV00611,Daniel Mody,8008673457,DL99937519,17,4.08,Jodhpur,Contract,Active
+DRV00612,Timothy Acharya,9081988892,DL30164820,3,4.71,Prayagraj,Full Time,Active
+DRV00613,Hemani Sama,9218286498,DL24746179,12,2.67,Chennai,Full Time,Active
+DRV00614,Fariq Nazareth,8207315080,DL22417499,15,4.43,Jodhpur,Full Time,Active
+DRV00615,Oliver Merchant,8627965219,DL79959625,4,2.83,Nashik,Contract,Active
+DRV00616,Harish Bedi,9837757185,DL12559794,7,3.38,Delhi,Contract,Active
+DRV00617,Tarak Golla,8112986825,DL61120212,17,4.45,Kota,Full Time,Active
+DRV00618,Reva Ratta,9886279376,DL97809701,19,4.14,Bengaluru,Full Time,Active
+DRV00619,Aryan Pandey,8619160154,DL60693481,11,2.57,Surat,Partner,Active
+DRV00620,Sai Wadhwa,8975452875,DL81016479,11,3.31,Mumbai,Contract,Active
+DRV00621,Keya Ganesan,6290296045,DL19679953,5,3.71,Raipur,Partner,Active
+DRV00622,Nirja Mahal,9910760948,DL40983394,16,4.91,Kochi,Full Time,Active
+DRV00623,Arya Kade,8049467142,DL59455118,17,3.2,Agra,Full Time,Active
+DRV00624,Anamika Magar,6226022244,DL57933311,2,4.29,Gorakhpur,Partner,Active
+DRV00625,Chakrika Banik,8306689023,DL42388220,18,4.12,Bengaluru,Full Time,Active
+DRV00626,Nirja Singh,8410225121,DL46987067,19,3.4,Mumbai,Full Time,Active
+DRV00627,Tanveer Chand,7362375440,DL76136604,15,4.92,Bhopal,Full Time,Inactive
+DRV00628,Oscar Bhatti,7051173653,DL92323534,5,2.65,Kanpur,Full Time,Active
+DRV00629,Hiral Mahajan,9877099526,DL37110474,11,4.06,Dehradun,Contract,Active
+DRV00630,Yash Loyal,7526686920,DL61276664,15,3.86,Chennai,Full Time,Inactive
+DRV00631,Udarsh Thakur,6960903184,DL22709131,13,3.7,Chennai,Partner,Active
+DRV00632,Keya Radhakrishnan,7068099317,DL42022634,7,3.16,Dehradun,Contract,Active
+DRV00633,Yahvi Badami,6463050441,DL17785088,7,3.07,Kota,Contract,Active
+DRV00634,Yauvani Vig,9226113728,DL38446984,5,4.49,Pune,Contract,Active
+DRV00635,Shivani Barad,6031358658,DL31141388,16,4.97,Prayagraj,Contract,Active
+DRV00636,Jeremiah Chaudhry,8162270744,DL93522344,14,2.65,Pune,Contract,Active
+DRV00637,Mahika Bhatnagar,9722878547,DL66172832,11,4.09,Haridwar,Partner,Active
+DRV00638,Amara Baria,9651624482,DL49044891,5,2.98,Kota,Contract,Active
+DRV00639,Yash Ben,6886527902,DL34752586,6,3.86,Bhubaneswar,Contract,Active
+DRV00640,Mohini Narayan,7513771192,DL69621021,1,3.21,Mangaluru,Full Time,Active
+DRV00641,Inaya Manda,6756210575,DL25300575,18,4.47,Vadodara,Full Time,Active
+DRV00642,Pratyush Kashyap,7428948688,DL57048672,2,4.81,Indore,Full Time,Active
+DRV00643,Baljiwan Taneja,8982544339,DL83764737,7,4.71,Bengaluru,Full Time,Active
+DRV00644,Libni Bansal,7420183908,DL63177158,7,3.11,Kota,Full Time,Active
+DRV00645,Darpan Bajwa,9836326513,DL69523944,11,3.69,Guwahati,Partner,Active
+DRV00646,Urvi Bajaj,7512704314,DL66967907,6,4.68,Ghaziabad,Contract,Active
+DRV00647,Hiral Nayar,6786182082,DL56571409,3,4.98,Bhopal,Partner,Active
+DRV00648,Chakrika Karnik,8366251311,DL76272381,12,3.32,Gorakhpur,Partner,Active
+DRV00649,Samesh Mohanty,9123459138,DL74548868,6,4.11,Prayagraj,Partner,On Leave
+DRV00650,Radhika Wable,7121137663,DL80522951,19,4.57,Amritsar,Full Time,Inactive
+DRV00651,Gayathri Prabhakar,8482664380,DL33132184,1,3.57,Raipur,Contract,On Leave
+DRV00652,Neel Karnik,8715880084,DL48241318,7,4.86,Haridwar,Full Time,Active
+DRV00653,Pranit Sastry,6005075831,DL41756529,6,4.99,Chennai,Partner,Inactive
+DRV00654,Triveni Sandhu,6710860604,DL25111671,16,4.87,Gorakhpur,Full Time,Active
+DRV00655,Noah Shanker,7397579967,DL88319617,3,3.52,Kolkata,Full Time,Active
+DRV00656,Nidra Sanghvi,6303922136,DL37205193,2,4.62,Agra,Partner,Active
+DRV00657,Ekani Peri,8877407574,DL14910349,7,2.71,Ahmedabad,Full Time,Inactive
+DRV00658,Xalak Mitra,8990046244,DL29748918,9,2.85,Ranchi,Full Time,Active
+DRV00659,Rehaan Doctor,6517269923,DL16198455,2,3.2,Nashik,Full Time,Active
+DRV00660,Zinal Natarajan,6235617664,DL59968162,5,2.59,Nagpur,Full Time,Active
+DRV00661,Kamya Bumb,9154503749,DL75922310,10,2.65,Indore,Partner,Active
+DRV00662,Chakradev Dayal,8623278146,DL97469107,15,4.81,Kanpur,Partner,Active
+DRV00663,Nilima Baria,9497113598,DL77556539,4,3.01,Varanasi,Full Time,Active
+DRV00664,Teerth Balan,6485820442,DL23450600,4,2.97,Gorakhpur,Full Time,Active
+DRV00665,Naksh Tara,7767351650,DL18753151,5,3.06,Bengaluru,Partner,Active
+DRV00666,Andrew Iyer,9081842028,DL66057929,16,2.52,Bhopal,Full Time,Active
+DRV00667,Omisha Mitter,9223167875,DL12002632,20,4.59,Mumbai,Full Time,Active
+DRV00668,Zashil Date,6940858816,DL63776405,17,2.62,Mumbai,Partner,Active
+DRV00669,Vincent Patel,7615756853,DL43568239,1,2.52,Kolkata,Partner,Active
+DRV00670,Yoshita Banik,9757298932,DL26722312,7,2.79,Bhubaneswar,Partner,Active
+DRV00671,Vyanjana Ravel,6730220008,DL99935279,19,2.95,Patna,Full Time,Active
+DRV00672,Advik Ghosh,9803231476,DL74151864,5,4.83,Delhi,Full Time,Active
+DRV00673,Maya Vig,6664083209,DL99120247,11,2.51,Delhi,Full Time,Active
+DRV00674,Jason Tara,8107167678,DL23811353,5,4.35,Surat,Full Time,Active
+DRV00675,Kavya Ganguly,8567236447,DL40745765,11,4.47,Surat,Full Time,Active
+DRV00676,Charvi Kale,7478005020,DL98458714,11,3.79,Ludhiana,Contract,Active
+DRV00677,Ekanta Sampath,9203921799,DL95282151,11,2.94,Coimbatore,Contract,Active
+DRV00678,Charita Brahmbhatt,9952696905,DL88033604,17,4.05,Bhopal,Full Time,Active
+DRV00679,Odika Ravel,7270020387,DL88336584,1,3.67,Kota,Full Time,Active
+DRV00680,Yug Krishnan,9161897821,DL12492475,6,3.0,Patna,Full Time,Active
+DRV00681,Rachit Dhawan,8748917329,DL64677101,18,4.0,Guwahati,Partner,Active
+DRV00682,Samuel Pall,8152798312,DL87342413,18,2.81,Ranchi,Full Time,Active
+DRV00683,Dayita Seth,8060965882,DL87045987,18,4.32,Ahmedabad,Full Time,Inactive
+DRV00684,Inaya Bhatti,9033476592,DL56937606,13,2.72,Varanasi,Full Time,Inactive
+DRV00685,Vedika Mahal,7758560507,DL57117818,7,4.63,Vadodara,Partner,Active
+DRV00686,Jyoti Handa,6681489744,DL58534829,8,4.17,Kota,Full Time,Active
+DRV00687,Chasmum Issac,9292710092,DL39637492,5,4.98,Mangaluru,Contract,Active
+DRV00688,Benjamin Roy,7628433683,DL15204968,3,2.57,Vadodara,Full Time,Active
+DRV00689,Hema Kapoor,9580248133,DL10231146,12,2.79,Jaipur,Full Time,Active
+DRV00690,Ranveer Ray,7655100525,DL43842339,20,3.6,Gorakhpur,Contract,Active
+DRV00691,Kamala Sengupta,9129683279,DL94709477,3,4.49,Coimbatore,Contract,Active
+DRV00692,William Sane,6408371605,DL94771290,16,3.69,Kota,Contract,Active
+DRV00693,Rajeshri Ahuja,8932428626,DL90250119,1,3.78,Ludhiana,Contract,Active
+DRV00694,Hemang Goel,8777002345,DL87067887,9,3.59,Amritsar,Full Time,Active
+DRV00695,Oviya Wable,6740652975,DL50560837,3,2.91,Ranchi,Full Time,Active
+DRV00696,Gauri Contractor,9291898743,DL74015523,3,4.99,Ludhiana,Full Time,Active
+DRV00697,Maanav Das,9647278003,DL97102326,19,2.85,Nagpur,Partner,Active
+DRV00698,Amrita Saraf,9614459724,DL80071510,17,3.3,Nashik,Contract,Inactive
+DRV00699,Chameli Uppal,9329262200,DL58709297,7,3.55,Kochi,Full Time,Active
+DRV00700,Manthan Batra,7595114119,DL14585891,1,4.66,Mumbai,Contract,Active
+DRV00701,Kavya Samra,9845598390,DL84819199,16,3.13,Kanpur,Full Time,Active
+DRV00702,Theodore Srivastava,6113551438,DL39190993,19,3.18,Mysuru,Full Time,Active
+DRV00703,Bahadurjit Bhargava,6330901408,DL41181436,2,3.22,Haridwar,Full Time,Active
+DRV00704,Jeremiah Dubey,7435279938,DL57450874,2,2.69,Pune,Full Time,Active
+DRV00705,Radhika Chakrabarti,6221789234,DL30241264,1,4.69,Agra,Contract,Active
+DRV00706,Tanay Verma,6469949462,DL44770656,20,4.45,Ludhiana,Contract,Active
+DRV00707,Avni Gara,8669638123,DL99270514,1,4.43,Varanasi,Contract,Active
+DRV00708,Januja Pai,7657941445,DL73697683,17,3.16,Agra,Contract,Active
+DRV00709,Maanas Bhalla,9075701369,DL34670737,16,3.58,Haridwar,Full Time,Active
+DRV00710,Jai Garde,9648214096,DL73496204,5,3.15,Nashik,Full Time,Active
+DRV00711,Nikita Kala,7447241620,DL98545468,3,4.21,Ahmedabad,Full Time,Active
+DRV00712,Balendra Divan,6635525893,DL72416176,17,4.36,Gorakhpur,Contract,Active
+DRV00713,Vedhika Dar,6687137849,DL56966434,8,4.33,Haridwar,Contract,Active
+DRV00714,Anmol Muni,7196709552,DL69670809,19,4.4,Ahmedabad,Full Time,Active
+DRV00715,Jagat Cheema,7058834830,DL87580438,1,3.34,Mumbai,Full Time,Active
+DRV00716,Jairaj Walla,8598527435,DL30656675,5,2.98,Ranchi,Full Time,Active
+DRV00717,Vedika Khatri,8386699031,DL25042270,20,2.6,Noida,Full Time,Active
+DRV00718,Patrick Ahluwalia,9790978884,DL76159263,13,4.25,Ghaziabad,Full Time,Active
+DRV00719,Indira Banik,9178019130,DL59702684,9,2.82,Surat,Contract,Active
+DRV00720,Jai Pant,6965984748,DL42199542,4,2.69,Raipur,Full Time,Active
+DRV00721,Priya Sunder,9889050136,DL43519411,10,3.02,Jaipur,Full Time,Active
+DRV00722,Indali Sur,8541182893,DL21552407,3,2.54,Kota,Partner,Active
+DRV00723,Yuvraj Bail,6125735887,DL56456751,1,4.42,Bhopal,Partner,Active
+DRV00724,Neelima Narayanan,7220611656,DL20102441,15,3.78,Ahmedabad,Contract,Active
+DRV00725,Leela Sastry,6613273274,DL97881766,10,4.0,Varanasi,Contract,Active
+DRV00726,Vidhi Prabhakar,8071663781,DL54924371,13,3.7,Lucknow,Partner,Active
+DRV00727,Jeremiah Mallick,6441773725,DL68708435,12,2.77,Vadodara,Full Time,Active
+DRV00728,Ishaan Bhat,8132276089,DL74829448,15,3.39,Mumbai,Full Time,Active
+DRV00729,Dalbir Peri,8841411840,DL97406223,5,3.11,Nashik,Full Time,Active
+DRV00730,Vedant Tank,7700992576,DL32040393,8,2.55,Chennai,Full Time,Active
+DRV00731,Kavya Kohli,6322363212,DL77568947,15,2.59,Gorakhpur,Full Time,Active
+DRV00732,Rishi Krishnamurthy,9791492404,DL26893370,20,4.72,Kolkata,Full Time,Active
+DRV00733,Gautam Rama,6805444998,DL70042013,9,4.84,Patna,Partner,Active
+DRV00734,Triveni Balay,6978525987,DL27379422,7,3.78,Vadodara,Contract,Active
+DRV00735,Tamanna Ram,9793159207,DL54699421,14,3.81,Guwahati,Partner,Active
+DRV00736,Tanay Hans,9527817689,DL94760910,10,3.74,Mangaluru,Contract,Active
+DRV00737,Isha Shere,6999026516,DL46849651,10,4.97,Kolkata,Full Time,Active
+DRV00738,Finn Konda,9823668794,DL19557666,2,3.24,Hyderabad,Contract,Active
+DRV00739,Chatura Bakshi,8035235140,DL10993558,18,4.16,Guwahati,Contract,Active
+DRV00740,Naksh Uppal,7849588278,DL69795114,3,2.55,Kanpur,Contract,Active
+DRV00741,Indrajit Baria,6199769634,DL30627461,9,4.73,Vadodara,Full Time,Active
+DRV00742,Frado Boase,8200313400,DL94528518,5,3.69,Lucknow,Contract,Active
+DRV00743,Mahika Balay,7054216373,DL87660773,11,4.43,Mumbai,Contract,Active
+DRV00744,Ucchal Pradhan,6067631553,DL21233073,18,4.87,Lucknow,Full Time,Inactive
+DRV00745,Michael Radhakrishnan,9190273166,DL59688950,11,4.98,Kota,Full Time,Active
+DRV00746,Ayushman Kari,8544852954,DL17116332,5,3.98,Nashik,Contract,Active
+DRV00747,Qadim Bajaj,9489555802,DL79410794,5,3.6,Vadodara,Partner,Active
+DRV00748,Samar Ghose,7941890073,DL89860596,18,4.86,Patna,Full Time,Active
+DRV00749,Rohan Mall,8097597987,DL72777344,19,3.25,Kolkata,Full Time,Active
+DRV00750,Advik Pradhan,9153846745,DL27758975,10,2.91,Vadodara,Contract,Active
+DRV00751,George Upadhyay,7571324725,DL76878192,9,4.53,Noida,Full Time,Active
+DRV00752,Aradhana Krish,9452837290,DL15227591,7,3.6,Kanpur,Full Time,Active
+DRV00753,Advay Viswanathan,7119641524,DL62884220,15,2.65,Ahmedabad,Partner,Active
+DRV00754,Mugdha Keer,9194523626,DL81406977,10,3.66,Varanasi,Partner,Active
+DRV00755,Ikbal Panchal,8926622135,DL37116868,13,3.58,Mysuru,Full Time,Active
+DRV00756,Kala Contractor,6078849399,DL82383392,10,3.22,Ranchi,Full Time,On Leave
+DRV00757,Banjeet Shankar,7657349634,DL62691890,7,2.74,Chennai,Full Time,Active
+DRV00758,Balveer Singhal,9769104501,DL87472324,19,2.65,Kanpur,Full Time,Active
+DRV00759,Barkha Rau,6088995008,DL73202692,4,3.5,Nagpur,Full Time,Active
+DRV00760,Harish Dara,8404001425,DL82323607,13,4.57,Delhi,Contract,Active
+DRV00761,Falguni Bava,8067372694,DL97501566,11,2.99,Patna,Contract,Active
+DRV00762,Anamika Bawa,7067009084,DL44466326,17,2.82,Hyderabad,Full Time,Active
+DRV00763,Eiravati Behl,6722244075,DL44665626,12,3.28,Vadodara,Contract,Active
+DRV00764,Yahvi Shroff,6826545025,DL70148476,4,4.78,Indore,Full Time,Active
+DRV00765,Brinda Rout,9918362964,DL90236526,16,4.87,Chennai,Contract,Active
+DRV00766,Ishwar Johal,6878746394,DL32963573,2,4.45,Noida,Full Time,Active
+DRV00767,Michael Dora,7156657733,DL33407317,7,3.31,Raipur,Full Time,Active
+DRV00768,Onkar Chakraborty,9883809915,DL67124190,2,4.39,Mysuru,Full Time,On Leave
+DRV00769,Barkha Kale,7950544489,DL34899071,15,3.32,Haridwar,Full Time,Active
+DRV00770,Manya Pingle,7088071939,DL99376068,3,2.61,Gorakhpur,Full Time,Active
+DRV00771,Gaurika Bhat,6177062102,DL43137368,19,3.17,Bhopal,Full Time,Active
+DRV00772,Brinda Rai,6200967470,DL53755858,13,4.69,Kota,Full Time,Active
+DRV00773,Baljiwan Sunder,6399408798,DL91202901,7,4.89,Kanpur,Contract,Active
+DRV00774,Chandani Kulkarni,8951248029,DL10226300,17,2.73,Bengaluru,Full Time,Active
+DRV00775,Oliver D’Alia,9102694150,DL46982734,15,3.92,Indore,Full Time,Active
+DRV00776,Jacob Sunder,8802682465,DL97363889,14,4.64,Chennai,Partner,Active
+DRV00777,Wazir Kalita,6526358975,DL18376487,11,3.77,Pune,Partner,Active
+DRV00778,Jai Viswanathan,9713176041,DL59127495,12,3.97,Ranchi,Partner,Active
+DRV00779,Ekani Gandhi,7024801127,DL87922922,4,3.77,Varanasi,Contract,Active
+DRV00780,Raagini Nagi,9181463228,DL30917763,9,4.18,Ranchi,Full Time,Active
+DRV00781,Radha Pai,9440815878,DL57438391,20,3.63,Bengaluru,Contract,Active
+DRV00782,Gagan Manda,6297054246,DL29322581,6,4.01,Ludhiana,Contract,Inactive
+DRV00783,Gunbir Sinha,7387457869,DL29510822,10,4.4,Mysuru,Full Time,Active
+DRV00784,Yashvi Bansal,9249870518,DL55546205,5,3.26,Bengaluru,Contract,Active
+DRV00785,Chandresh Kapoor,6918020763,DL77789368,12,3.26,Varanasi,Partner,Inactive
+DRV00786,Sai Dutt,8130246095,DL87480048,4,3.55,Ghaziabad,Full Time,On Leave
+DRV00787,Chaitanya Brahmbhatt,9509955290,DL43654885,15,2.69,Ranchi,Full Time,Active
+DRV00788,Dhruv Dani,7434766034,DL59647688,20,3.81,Hyderabad,Contract,Active
+DRV00789,Januja Seth,7270236233,DL77944714,12,4.1,Bhopal,Contract,Active
+DRV00790,Wridesh Sibal,9761066784,DL33006363,15,3.77,Kota,Contract,Active
+DRV00791,Chatresh Nazareth,8729378893,DL77104580,4,3.86,Lucknow,Full Time,Active
+DRV00792,Rushil Mahal,8668636707,DL32650816,3,3.61,Kanpur,Contract,Active
+DRV00793,Jeevika Sampath,6133279351,DL42408653,13,3.57,Surat,Contract,Active
+DRV00794,Neha Mohan,6903613932,DL40537662,16,3.53,Gorakhpur,Partner,Active
+DRV00795,Gautami Bhatt,8822791858,DL12415939,10,3.91,Amritsar,Contract,Active
+DRV00796,Dev Samra,9964664020,DL94752412,5,4.39,Kochi,Full Time,On Leave
+DRV00797,Hiral Chaudhuri,8567165868,DL54198390,2,4.96,Raipur,Full Time,Active
+DRV00798,Rushil Trivedi,7991822768,DL53367046,1,3.17,Bhopal,Contract,Active
+DRV00799,Shivani Narula,7612577267,DL98932501,12,3.13,Ludhiana,Full Time,Active
+DRV00800,Utkarsh Som,7460037691,DL10449847,4,3.43,Ludhiana,Contract,Active
+DRV00801,Jack Khatri,7715192929,DL24633313,16,2.95,Bengaluru,Full Time,Active
+DRV00802,Upadhriti Kibe,8439045956,DL12171550,19,3.6,Mysuru,Partner,Active
+DRV00803,Nisha Issac,8500466320,DL37869246,15,2.99,Bhopal,Full Time,Active
+DRV00804,Yutika Bhardwaj,8839539104,DL81162018,17,4.03,Ranchi,Contract,Active
+DRV00805,Warhi Chokshi,9906736345,DL36081085,3,3.0,Nagpur,Full Time,Active
+DRV00806,Jack Johal,6754334438,DL49875384,16,2.58,Guwahati,Full Time,Active
+DRV00807,Vincent Dhar,9898949361,DL34596134,10,3.21,Chandigarh,Contract,Active
+DRV00808,Abdul Bhasin,9069946261,DL59608695,14,4.08,Chandigarh,Full Time,On Leave
+DRV00809,Advika Varkey,9353811243,DL36161951,10,3.38,Amritsar,Full Time,Active
+DRV00810,Eshana Das,8980064121,DL82204051,6,4.5,Mysuru,Contract,Active
+DRV00811,Sarthak Arya,8599582434,DL12212478,10,4.51,Mysuru,Partner,Active
+DRV00812,Manthan Deshmukh,6434701247,DL67644483,1,3.05,Mangaluru,Full Time,Inactive
+DRV00813,Gavin Balakrishnan,7119489036,DL76448630,11,4.56,Jaipur,Full Time,Active
+DRV00814,Nitesh Manne,8882724284,DL43273777,9,4.35,Pune,Partner,Active
+DRV00815,Balveer Sundaram,9619900479,DL64418131,3,3.48,Patna,Full Time,Active
+DRV00816,Mason Jain,9997344659,DL22893415,16,3.63,Chennai,Partner,Active
+DRV00817,Kavya Mammen,9386567491,DL12844947,6,3.64,Nashik,Contract,On Leave
+DRV00818,Lekha Ram,7114901556,DL52841501,3,4.84,Hyderabad,Full Time,On Leave
+DRV00819,Tarak Bhavsar,9210210194,DL44578679,19,3.19,Kochi,Contract,Active
+DRV00820,Yash Ramesh,7175460698,DL91043350,10,4.44,Chennai,Full Time,Active
+DRV00821,Yashasvi Shan,9763320911,DL96246998,14,4.3,Bengaluru,Full Time,Active
+DRV00822,Abhimanyu Kamdar,6681262629,DL77238156,8,4.53,Kanpur,Partner,On Leave
+DRV00823,Daksha Madan,9577132526,DL76265252,14,3.26,Patna,Full Time,Active
+DRV00824,Tanay Pandya,8875830050,DL49538182,6,3.32,Ahmedabad,Full Time,Active
+DRV00825,Lohit Srinivas,6463721265,DL68554099,17,4.1,Chandigarh,Contract,Active
+DRV00826,Eshana Bajaj,8854061189,DL63387136,8,4.75,Prayagraj,Full Time,Active
+DRV00827,Vidhi Pant,8430586078,DL51879182,12,4.77,Raipur,Full Time,Active
+DRV00828,Vedant Loyal,6432223877,DL79070419,18,4.44,Nagpur,Contract,Active
+DRV00829,Pratyush Desai,6980104349,DL64357587,12,3.75,Kota,Partner,Active
+DRV00830,Yashasvi Pathak,8288806672,DL70071280,1,3.79,Hyderabad,Partner,Inactive
+DRV00831,Noah Ram,8302955285,DL36631322,15,3.15,Guwahati,Contract,Active
+DRV00832,Deepa Shah,6884703427,DL55718941,15,4.6,Bengaluru,Full Time,Active
+DRV00833,Veda Kota,6276159925,DL55598308,13,3.7,Chandigarh,Partner,Active
+DRV00834,Shivani Pathak,7880614592,DL73090380,9,3.61,Chennai,Full Time,Active
+DRV00835,Abeer Devan,9383527195,DL54108054,13,4.58,Agra,Partner,Active
+DRV00836,Osha Bal,9473025744,DL68622041,9,4.31,Amritsar,Full Time,Active
+DRV00837,Aryan Sha,8937147915,DL12107715,5,4.52,Varanasi,Full Time,Active
+DRV00838,Diya Lall,8460733208,DL52623504,19,4.57,Bhopal,Full Time,Active
+DRV00839,Varsha Raj,8290995240,DL11986127,20,4.31,Pune,Full Time,Active
+DRV00840,Riya Ramanathan,8491282408,DL99026037,8,4.22,Varanasi,Contract,Active
+DRV00841,Unni Bhakta,7449150828,DL88932690,13,4.35,Kolkata,Full Time,Active
+DRV00842,Pratyush Karan,7199628505,DL16369895,5,3.13,Guwahati,Full Time,On Leave
+DRV00843,Manbir Pandya,6945453497,DL69509696,10,4.27,Ranchi,Full Time,Active
+DRV00844,Matthew Nanda,8039207859,DL46617380,8,3.84,Nagpur,Full Time,Active
+DRV00845,Noah Gara,7395118983,DL78452758,6,3.98,Patna,Partner,On Leave
+DRV00846,Robert Raj,7617584366,DL87547984,7,4.15,Kanpur,Full Time,Active
+DRV00847,Yahvi Venkataraman,7897303997,DL99232753,7,3.66,Bengaluru,Full Time,Active
+DRV00848,Watika Choudhury,7291647373,DL37873263,1,2.5,Bhubaneswar,Full Time,Active
+DRV00849,Aadi Puri,7632327662,DL37735861,16,2.9,Patna,Contract,On Leave
+DRV00850,Anirudh Sama,7338588722,DL22314753,20,3.51,Dehradun,Contract,Active
+DRV00851,Tarak Dara,7502950414,DL80673474,13,3.89,Lucknow,Full Time,Active
+DRV00852,Wahab Varty,8050009327,DL31791246,8,3.77,Agra,Full Time,Active
+DRV00853,Chakradev Khare,9712422687,DL22389212,17,4.9,Chandigarh,Full Time,Active
+DRV00854,Pooja Bhat,6923422106,DL45029167,3,3.85,Agra,Contract,Active
+DRV00855,Jagat Sethi,7196846043,DL77670643,6,3.58,Vadodara,Full Time,Active
+DRV00856,Bakhshi Lala,9065108858,DL31075594,16,3.03,Chandigarh,Partner,Inactive
+DRV00857,Ishanvi Mangat,9404754062,DL40611577,14,4.63,Patna,Contract,Active
+DRV00858,Yachana Patel,8321348719,DL87601409,3,3.97,Lucknow,Contract,Active
+DRV00859,Kalpit Issac,9717651486,DL19171871,8,4.66,Ahmedabad,Contract,Active
+DRV00860,Darpan Kala,6326737126,DL43451061,17,3.53,Ahmedabad,Contract,Inactive
+DRV00861,Urvi Cherian,7463668157,DL12942354,7,3.66,Bhopal,Full Time,Inactive
+DRV00862,Joshua Kari,7321359978,DL84732898,18,3.38,Patna,Contract,Active
+DRV00863,Wakeeta Pandey,7800939335,DL88014158,1,2.95,Varanasi,Contract,Active
+DRV00864,Ishanvi Sarin,6138321577,DL68506130,5,3.34,Ludhiana,Full Time,Active
+DRV00865,Charvi Srinivasan,9753554253,DL64916840,10,3.38,Prayagraj,Full Time,Active
+DRV00866,Vinaya Datta,7210993076,DL13206110,1,4.54,Coimbatore,Full Time,Active
+DRV00867,Wridesh Seth,9616845250,DL39523667,14,3.07,Delhi,Full Time,Active
+DRV00868,William Bala,8931454480,DL13830207,7,3.61,Raipur,Full Time,Active
+DRV00869,Pranit Bakshi,9637442288,DL91452885,6,3.92,Prayagraj,Partner,Active
+DRV00870,Vihaan Dua,9058325264,DL90361509,2,3.99,Mumbai,Partner,Active
+DRV00871,Yoshita Gola,9271274501,DL74102620,12,3.47,Prayagraj,Contract,Active
+DRV00872,Arjun Buch,9536799776,DL18970365,16,3.53,Gorakhpur,Contract,Active
+DRV00873,Shaurya Tailor,6970930483,DL10900464,14,3.62,Kochi,Full Time,Inactive
+DRV00874,Yuvraj Hayer,6892747133,DL17470764,12,4.58,Kolkata,Contract,Active
+DRV00875,Yashvi Virk,6587521212,DL16225704,10,4.45,Ludhiana,Contract,Active
+DRV00876,Zaid Gopal,7720659168,DL59015450,8,4.38,Varanasi,Contract,Active
+DRV00877,Mahika Barad,9103431649,DL22166742,4,4.22,Nagpur,Full Time,Active
+DRV00878,Omisha Bail,9366070617,DL43527307,6,4.04,Surat,Full Time,Active
+DRV00879,Wridesh Varkey,8012224442,DL63374297,10,3.67,Prayagraj,Contract,Active
+DRV00880,Faraj Varma,7682225901,DL43313669,10,3.87,Guwahati,Contract,Active
+DRV00881,Farhan Chokshi,9428286877,DL11340691,8,3.07,Hyderabad,Full Time,Inactive
+DRV00882,Lakshit Shukla,9316892397,DL21264564,20,4.08,Jodhpur,Partner,Active
+DRV00883,Chakradev Ranganathan,7737980644,DL16281405,11,3.4,Pune,Full Time,Active
+DRV00884,Balendra Doshi,7916938220,DL17208719,15,2.56,Jaipur,Full Time,Active
+DRV00885,Ekantika Talwar,7520955257,DL47173995,9,3.3,Mangaluru,Full Time,Active
+DRV00886,Christopher Majumdar,9545298846,DL78326438,17,4.18,Bengaluru,Full Time,Active
+DRV00887,Om Bali,6009994762,DL84459050,13,4.37,Prayagraj,Full Time,Active
+DRV00888,Urvi Swaminathan,9848233789,DL62219328,6,4.6,Chandigarh,Contract,Active
+DRV00889,Indali Vala,8312478676,DL90581093,4,2.86,Kanpur,Full Time,Active
+DRV00890,Aayush Issac,6196086966,DL48849629,17,3.33,Noida,Contract,Active
+DRV00891,Brinda Lal,6337333763,DL60439478,15,4.34,Ahmedabad,Contract,Active
+DRV00892,Chaitanya Narayan,6958454724,DL81834742,17,4.29,Jaipur,Full Time,Active
+DRV00893,Henry Buch,6356908815,DL89034795,2,3.51,Bengaluru,Contract,Active
+DRV00894,Ethan Lanka,6927577291,DL59324420,10,2.93,Gorakhpur,Full Time,Active
+DRV00895,Anika Bhatia,7196523690,DL30530773,12,4.71,Kochi,Partner,Active
+DRV00896,William Agarwal,7339140215,DL90681869,7,4.5,Agra,Full Time,Active
+DRV00897,Lakshit Mand,8428694555,DL47306343,6,3.62,Noida,Full Time,Active
+DRV00898,Fiyaz Baria,6799175813,DL52037322,4,2.79,Kochi,Full Time,Active
+DRV00899,Wyatt Chander,9544214671,DL81510673,16,3.17,Kota,Contract,Active
+DRV00900,Bachittar Pandey,8336506319,DL97326686,3,3.06,Bhopal,Full Time,Active
+DRV00901,Daniel Kumar,9017255333,DL61418511,13,2.72,Patna,Full Time,On Leave
+DRV00902,Ekiya Savant,8638639889,DL65170290,13,4.94,Lucknow,Full Time,Active
+DRV00903,Christopher Dani,7159628905,DL62443349,1,3.25,Nagpur,Contract,Active
+DRV00904,Idika Mistry,8293802916,DL76735795,17,4.64,Kota,Contract,Active
+DRV00905,Urvashi Garde,9248070233,DL72597632,18,4.46,Mumbai,Full Time,Active
+DRV00906,Damyanti Ramachandran,7577196645,DL94570243,20,2.73,Jaipur,Contract,Active
+DRV00907,Ishani Doshi,6554327833,DL24756148,15,4.99,Chennai,Full Time,Active
+DRV00908,Aayush Dalal,9578928026,DL12400115,15,2.51,Haridwar,Partner,Active
+DRV00909,Sai Master,8587043243,DL56528482,4,2.85,Bhopal,Full Time,Active
+DRV00910,Anirudh Sabharwal,8247254529,DL47572356,7,3.84,Mangaluru,Full Time,Active
+DRV00911,Chaaya Brahmbhatt,7280946977,DL75170817,7,2.52,Gorakhpur,Full Time,Active
+DRV00912,Ryan Mukhopadhyay,9573381749,DL54524486,2,2.89,Ahmedabad,Full Time,Active
+DRV00913,Avni Dewan,6390671308,DL77077321,20,2.88,Kota,Contract,Active
+DRV00914,Aarav Khanna,7116203108,DL99942197,9,3.33,Raipur,Contract,Active
+DRV00915,Meghana Datta,8011050681,DL91729972,5,4.39,Nashik,Full Time,Active
+DRV00916,Zaitra Venkataraman,6993494383,DL96826233,9,4.16,Coimbatore,Full Time,Active
+DRV00917,Aradhana Sarma,8153358656,DL82255788,8,4.65,Bhubaneswar,Contract,Active
+DRV00918,Sanya Kothari,6524425712,DL50889062,20,3.3,Bhubaneswar,Contract,Active
+DRV00919,Zehaan Nath,8681501823,DL24261327,17,4.74,Chandigarh,Partner,Active
+DRV00920,Rayaan Chandran,7894691890,DL79335889,5,2.73,Noida,Full Time,Active
+DRV00921,Chakradhar Grewal,9709899873,DL61803942,6,4.01,Mangaluru,Full Time,Active
+DRV00922,Nathan Dara,7482559277,DL55301718,9,3.54,Nagpur,Full Time,Active
+DRV00923,Lopa Ravi,6668716823,DL30265475,12,3.42,Hyderabad,Contract,Active
+DRV00924,Jhalak Solanki,8010403646,DL81798561,8,3.56,Mangaluru,Partner,Active
+DRV00925,Udarsh Nigam,7292817067,DL56209807,3,4.24,Varanasi,Full Time,Active
+DRV00926,Mohini Pall,8297129609,DL65899981,20,4.38,Kochi,Full Time,Active
+DRV00927,Bhavna Vig,9447058929,DL12719311,1,3.78,Ahmedabad,Contract,Inactive
+DRV00928,Aishani Amble,9065828882,DL24368214,17,2.99,Mangaluru,Full Time,Active
+DRV00929,Gautami Sarin,6179620251,DL42277498,3,4.97,Amritsar,Full Time,Active
+DRV00930,Janaki Lata,8931793168,DL67076909,1,2.92,Kolkata,Full Time,Active
+DRV00931,Vidhi Balan,6717981097,DL88366211,17,3.28,Kolkata,Partner,Active
+DRV00932,Harshil Gokhale,7419748316,DL22338358,17,4.11,Bengaluru,Contract,Active
+DRV00933,Aarini Khurana,7351931580,DL34496097,11,2.88,Hyderabad,Partner,Active
+DRV00934,Tanay Dhillon,9824985407,DL14800003,11,3.88,Kolkata,Full Time,Active
+DRV00935,Yutika Kulkarni,7008333154,DL13953306,13,2.9,Mangaluru,Full Time,Active
+DRV00936,Priya Sandal,8242333300,DL65737805,4,3.44,Haridwar,Contract,On Leave
+DRV00937,Pallavi Ramesh,9416897298,DL99460400,2,2.52,Ludhiana,Contract,Active
+DRV00938,Leena Morar,8069264023,DL47743290,16,4.27,Jodhpur,Full Time,Active
+DRV00939,Theodore Handa,7654440119,DL82333970,14,2.59,Jodhpur,Partner,Active
+DRV00940,Diya Mannan,7594352913,DL70850202,9,4.07,Guwahati,Contract,Active
+DRV00941,Falguni Munshi,6740523875,DL48561647,20,4.15,Bhopal,Full Time,Active
+DRV00942,Udant Saha,9756337930,DL65220647,17,4.68,Nashik,Contract,Active
+DRV00943,Tanveer Rout,7343172722,DL84572184,7,3.04,Mangaluru,Full Time,Active
+DRV00944,Alexander Kulkarni,6444430806,DL57340848,6,4.36,Kochi,Contract,On Leave
+DRV00945,Lopa Hayre,8205179489,DL25992445,9,3.96,Vadodara,Partner,Active
+DRV00946,Rohan Pingle,9840148065,DL76470169,18,4.47,Dehradun,Full Time,On Leave
+DRV00947,Dipta Krishna,7034404062,DL85720140,1,4.58,Chennai,Partner,Active
+DRV00948,Christopher Sagar,6844833503,DL43520717,9,3.26,Ludhiana,Partner,Active
+DRV00949,Shivansh Sachdev,6702144330,DL11277301,7,3.11,Ghaziabad,Full Time,Active
+DRV00950,Ladli Patil,6257881934,DL18461345,19,3.29,Vadodara,Full Time,Active
+DRV00951,Varenya Karan,7300084602,DL42325362,18,3.4,Delhi,Full Time,Active
+DRV00952,Pranit Lata,8952459442,DL21142895,5,4.14,Surat,Full Time,On Leave
+DRV00953,Omya Sangha,9585295399,DL12319257,13,3.33,Hyderabad,Full Time,Active
+DRV00954,Triya Choudhary,6900084118,DL59128518,13,3.54,Delhi,Partner,Active
+DRV00955,Yachana Ahluwalia,8916400438,DL22240505,18,4.01,Coimbatore,Contract,Active
+DRV00956,Aarav Uppal,9718173270,DL73647837,20,4.92,Vadodara,Partner,Active
+DRV00957,Vihaan Arya,7460145855,DL52786194,11,2.95,Dehradun,Full Time,Active
+DRV00958,Charan Nigam,7618253163,DL94230332,6,3.38,Ghaziabad,Contract,Active
+DRV00959,Wishi Chacko,6075080293,DL94019044,4,3.03,Kanpur,Contract,On Leave
+DRV00960,Gavin Lala,7869886326,DL87124339,6,4.05,Ranchi,Contract,Active
+DRV00961,Saumya Goyal,8309952566,DL98906626,6,4.37,Jaipur,Contract,Active
+DRV00962,Meera Bhakta,7408432487,DL71323626,20,2.64,Kota,Full Time,Active
+DRV00963,Ishwar Sawhney,7579804495,DL45298825,5,3.54,Bhubaneswar,Full Time,Active
+DRV00964,Megha Choudhury,6991701216,DL81791418,18,3.82,Ludhiana,Partner,Active
+DRV00965,Aachal Dara,8260204809,DL25619514,11,3.93,Guwahati,Contract,Active
+DRV00966,Gaurav Chandran,7894253370,DL86714288,3,3.96,Indore,Contract,Active
+DRV00967,Nimrat Barad,9838672787,DL63271698,20,3.66,Kanpur,Contract,Active
+DRV00968,Vihaan Patla,9145110376,DL21229200,16,3.85,Jaipur,Full Time,Active
+DRV00969,Maya Sethi,8751396514,DL66377834,9,4.92,Raipur,Full Time,Active
+DRV00970,Zansi Saran,6314181872,DL31189641,6,4.8,Kota,Contract,Active
+DRV00971,Vasudha Varty,9861199240,DL69959633,18,4.33,Amritsar,Full Time,Active
+DRV00972,Leena Sen,8876516488,DL92031030,3,4.11,Agra,Contract,Active
+DRV00973,Jagat Bhargava,8660474536,DL49930258,11,3.41,Lucknow,Full Time,Active
+DRV00974,Faqid Keer,9949445472,DL31150333,9,4.35,Mangaluru,Contract,Active
+DRV00975,Chameli Andra,8779737937,DL41241060,6,4.24,Amritsar,Partner,On Leave
+DRV00976,Rachita Deshmukh,7029079092,DL91501430,16,4.37,Surat,Full Time,Active
+DRV00977,Kevin Dada,8988771920,DL29408699,6,3.39,Kanpur,Full Time,Inactive
+DRV00978,Rehaan Bajaj,8852347987,DL73458284,19,4.54,Ludhiana,Full Time,Active
+DRV00979,Ojas Bedi,8443136822,DL40333741,17,3.6,Chennai,Full Time,Active
+DRV00980,Ekanta Devi,7285026941,DL10522343,7,4.17,Mumbai,Partner,Active
+DRV00981,Warhi Tella,7185288443,DL32582062,1,2.89,Surat,Partner,Active
+DRV00982,Abeer Som,9346011368,DL50044476,8,2.9,Mumbai,Partner,Active
+DRV00983,Faras Uppal,7739578746,DL52668012,20,4.68,Gorakhpur,Full Time,Active
+DRV00984,Lipika Sachar,8574537135,DL82487889,15,3.76,Mumbai,Contract,Active
+DRV00985,Varsha Dayal,6721951899,DL61062323,4,4.21,Guwahati,Contract,Active
+DRV00986,Wyatt Pandya,9481996725,DL80022544,6,3.22,Jaipur,Full Time,Active
+DRV00987,Andrew Kala,9316141508,DL90978393,2,3.01,Kolkata,Partner,Active
+DRV00988,Kai Sani,8156646999,DL41043984,12,4.04,Lucknow,Contract,Active
+DRV00989,Elijah Patel,9773611886,DL22851833,14,3.78,Pune,Contract,Active
+DRV00990,Tejas Pillay,9171199670,DL95957109,11,4.35,Pune,Contract,Active
+DRV00991,Theodore De,7810114766,DL13300269,15,3.16,Jaipur,Contract,Active
+DRV00992,Chakrika Shan,8837151603,DL76570795,9,2.78,Nagpur,Full Time,Inactive
+DRV00993,Omkaar Hegde,8098972579,DL53871708,4,2.6,Nashik,Partner,On Leave
+DRV00994,Yagnesh Singhal,9435448189,DL22923719,14,3.94,Coimbatore,Partner,Active
+DRV00995,Raghav Walia,6498145650,DL55232956,10,3.69,Kolkata,Full Time,Active
+DRV00996,Anusha Iyengar,8279317513,DL97622158,6,2.68,Mangaluru,Partner,Active
+DRV00997,Brijesh Panchal,8125464222,DL31592326,14,3.91,Hyderabad,Full Time,Active
+DRV00998,Aashi Arora,9024326883,DL39954016,5,3.0,Vadodara,Contract,Active
+DRV00999,Baljiwan Seth,6066428437,DL32739416,5,3.11,Nagpur,Partner,Active
+DRV01000,Kiaan Bath,6048498857,DL32377459,20,4.99,Hyderabad,Partner,Active

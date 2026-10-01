@@ -1,0 +1,26 @@
+partner_id,partner_name,service_type,coverage_type,base_cost_per_km,rating,contact_phone,status
+PART001,Delhivery,Express,National,17.94,3.21,8242121576,Active
+PART002,Blue Dart,Hyperlocal,Local,8.88,3.95,6849953723,Active
+PART003,DTDC,Express,Local,13.59,4.92,7945670449,Active
+PART004,Ecom Express,Standard,National,15.1,4.63,6166238128,Active
+PART005,XpressBees,Express,National,29.23,3.9,9225293753,Active
+PART006,Shadowfax,Standard,National,20.39,4.38,8450889965,Active
+PART007,Ekart,Standard,Regional,29.79,4.87,9326020738,Active
+PART008,Shiprocket,Same Day,National,19.19,4.75,9319584025,Inactive
+PART009,India Post,Standard,Local,23.94,3.67,8940353534,Active
+PART010,DHL India,Standard,Local,29.38,3.88,6778920383,Active
+PART011,FedEx India,Express,National,13.51,3.7,6753768874,Active
+PART012,Amazon Logistics,Express,Local,12.98,3.43,8623958365,Active
+PART013,Flipkart Logistics,Standard,Regional,28.05,4.31,8663575927,Active
+PART014,Professional Couriers,Express,Local,14.1,3.22,9154373348,Active
+PART015,Gati,Express,National,14.4,3.4,6206401311,Active
+PART016,Safexpress,Express,Regional,27.19,4.52,6137326054,Active
+PART017,Rivigo,Express,National,8.93,3.38,6960465127,Active
+PART018,Loadshare,Same Day,National,20.4,4.22,9866099433,Active
+PART019,Porter,Standard,National,12.06,4.8,8098533684,Active
+PART020,Borzo,Hyperlocal,National,28.74,4.45,8386528620,Active
+PART021,Trackon,Express,National,16.25,4.55,8581270981,Active
+PART022,First Flight,Standard,Local,15.02,4.81,6454790496,Active
+PART023,Aramex India,Express,Local,13.91,4.7,8924222615,Active
+PART024,Ekart Logistics,Same Day,Local,24.06,4.81,6076080150,Active
+PART025,TCI Express,Express,National,11.54,3.36,7465797961,Active

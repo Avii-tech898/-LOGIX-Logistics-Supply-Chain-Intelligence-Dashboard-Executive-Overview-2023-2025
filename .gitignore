@@ -1,0 +1,63 @@
+@"
+# ============================================================
+# LOGIX - Git Ignore
+# ============================================================
+
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Development backups
+*_backup.csv
+*_backup.xlsx
+*_broken_backup.py
+*_old_before_fix.py
+*_before_final_fix.csv
+
+# Excel temporary files
+~$*.xlsx
+
+# Local generated reports
+documentation/*.txt
+
+# Streamlit cache
+.streamlit/secrets.toml
+
+# Development dashboard versions
+dashboard/app_before_final_fix.py
+dashboard/app_error_backup.py
+excel/LOGIX_Executive_Dashboard.xlsx
+excel/LOGIX_Executive_Dashboard_v2.xlsx
+excel/LOGIX_Executive_Dashboard_v3.xlsx
+excel/LOGIX_Executive_Dashboard_v4.xlsx
+excel/LOGIX_Executive_Dashboard_v5.xlsx
+excel/LOGIX_Executive_Dashboard_v6.xlsx
+excel/LOGIX_Excel_Analysis.xlsx
+excel/LOGIX_Excel_Analysis_Professional.xlsx

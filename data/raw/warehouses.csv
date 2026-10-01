@@ -1,0 +1,31 @@
+warehouse_id,warehouse_name,warehouse_type,city,state,pincode,capacity_units,manager_name,operating_hours,is_active
+WH001,LOGIX Warehouse 01,Fulfillment,Bhubaneswar,Sikkim,473530,25542,Leela Dyal,10-18,True
+WH002,LOGIX Warehouse 02,Regional,Kanpur,Jharkhand,176136,28212,Laksh Dasgupta,9-17,True
+WH003,LOGIX Warehouse 03,Regional,Jodhpur,Assam,171792,27346,Abeer Gandhi,10-18,True
+WH004,LOGIX Warehouse 04,Fulfillment,Ahmedabad,Maharashtra,591318,41506,Hemani Wagle,8-16,True
+WH005,LOGIX Warehouse 05,Fulfillment,Chennai,Assam,173721,49488,Agastya Nagi,9-17,True
+WH006,LOGIX Warehouse 06,Fulfillment,Chandigarh,West Bengal,485985,18575,Nicholas Balan,8-16,True
+WH007,LOGIX Warehouse 07,Distribution,Gorakhpur,Madhya Pradesh,393431,83880,Radhika Shan,8-16,True
+WH008,LOGIX Warehouse 08,Regional,Ludhiana,Madhya Pradesh,274561,17614,Aachal Ratta,10-18,True
+WH009,LOGIX Warehouse 09,Distribution,Mangaluru,Haryana,653896,56277,Fitan Merchant,10-18,True
+WH010,LOGIX Warehouse 10,Regional,Patna,Madhya Pradesh,434877,28593,Udyati Manda,10-18,True
+WH011,LOGIX Warehouse 11,Distribution,Bhopal,Uttarakhand,540494,70146,Bhavika Dave,10-18,True
+WH012,LOGIX Warehouse 12,Fulfillment,Patna,Goa,657497,26786,Hredhaan Bains,24x7,True
+WH013,LOGIX Warehouse 13,Central,Chennai,Maharashtra,292708,63369,Indali Panchal,24x7,True
+WH014,LOGIX Warehouse 14,Central,Bhubaneswar,Odisha,140112,96056,Ikbal Sankaran,24x7,True
+WH015,LOGIX Warehouse 15,Regional,Vadodara,Jharkhand,633643,41526,Theodore Mahajan,10-18,True
+WH016,LOGIX Warehouse 16,Central,Delhi,Odisha,554167,30210,Luke Sathe,8-16,True
+WH017,LOGIX Warehouse 17,Regional,Coimbatore,Tamil Nadu,200042,45199,Unni Kibe,9-17,True
+WH018,LOGIX Warehouse 18,Regional,Nashik,Tripura,509919,81453,Ati Mahajan,24x7,True
+WH019,LOGIX Warehouse 19,Central,Kochi,Himachal Pradesh,125862,98102,Sachi Saraf,9-17,True
+WH020,LOGIX Warehouse 20,Regional,Noida,Meghalaya,254895,88638,Tarak Borra,24x7,True
+WH021,LOGIX Warehouse 21,Regional,Raipur,Assam,617060,99661,Kavya Khurana,8-16,True
+WH022,LOGIX Warehouse 22,Regional,Mumbai,Odisha,304336,34313,Aryan Ratta,8-16,True
+WH023,LOGIX Warehouse 23,Central,Agra,Odisha,600495,68943,Waida Peri,10-18,True
+WH024,LOGIX Warehouse 24,Fulfillment,Kolkata,Uttarakhand,257860,15974,Wakeeta Kannan,10-18,True
+WH025,LOGIX Warehouse 25,Fulfillment,Raipur,Karnataka,146657,65871,Lipika Varkey,10-18,True
+WH026,LOGIX Warehouse 26,Fulfillment,Pune,Haryana,114995,60762,Krishna Raman,24x7,True
+WH027,LOGIX Warehouse 27,Regional,Amritsar,Gujarat,468865,60869,Aachal Arya,9-17,True
+WH028,LOGIX Warehouse 28,Fulfillment,Varanasi,Arunachal Pradesh,317727,30241,Nitara Borde,24x7,True
+WH029,LOGIX Warehouse 29,Fulfillment,Delhi,Chhattisgarh,378680,64154,Chandani Ahluwalia,24x7,True
+WH030,LOGIX Warehouse 30,Regional,Mumbai,Gujarat,660159,60982,Chaitanya Din,24x7,True
