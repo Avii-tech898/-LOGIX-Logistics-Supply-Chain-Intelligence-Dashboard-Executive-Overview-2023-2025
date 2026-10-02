@@ -1,0 +1,149 @@
+
+======================================================================
+1. REQUIRED COLUMN CHECK
+======================================================================
+✅ All 31 required columns present.
+
+======================================================================
+2. TARGET VALIDATION
+======================================================================
+Target values: [np.int64(0), np.int64(1)]
+Invalid target values: 0
+On-Time   : 20,042 (30.05%)
+Delayed   : 46,658 (69.95%)
+
+======================================================================
+3. MISSING VALUE CHECK
+======================================================================
+✅ No missing values.
+
+======================================================================
+4. INFINITE VALUE CHECK
+======================================================================
+✅ No infinite values.
+
+======================================================================
+5. ENGINEERED NUMERIC FEATURE SIGNAL
+======================================================================
+order_month                      | Correlation: 0.007798
+shipment_day_cos                 | Correlation: 0.006701
+shipment_day_of_week             | Correlation: -0.005177
+partner_prior_shipments          | Correlation: 0.004976
+sla_days                         | Correlation: -0.004778
+is_same_day                      | Correlation: 0.004713
+warehouse_prior_shipments        | Correlation: 0.004660
+sla_buffer_days                  | Correlation: -0.004573
+warehouse_prior_delay_rate       | Correlation: -0.004429
+shipping_cost_per_km             | Correlation: 0.004377
+distance_per_sla_day             | Correlation: 0.004322
+network_distance_pressure        | Correlation: 0.004302
+order_day_sin                    | Correlation: -0.004082
+historical_operational_risk      | Correlation: -0.003962
+shipping_cost                    | Correlation: 0.003809
+processing_to_sla_ratio          | Correlation: 0.003569
+distance_km                      | Correlation: 0.003170
+is_high_priority                 | Correlation: 0.003131
+order_day_cos                    | Correlation: 0.002759
+order_month_sin                  | Correlation: -0.002003
+is_express                       | Correlation: 0.001586
+order_day_of_week                | Correlation: 0.001581
+partner_prior_delay_rate         | Correlation: -0.001380
+order_month_cos                  | Correlation: -0.001333
+shipment_day_sin                 | Correlation: 0.001195
+processing_days                  | Correlation: 0.000911
+
+======================================================================
+6. TOP ENGINEERED FEATURES
+======================================================================
+order_month                      | |Correlation|: 0.007798
+shipment_day_cos                 | |Correlation|: 0.006701
+shipment_day_of_week             | |Correlation|: 0.005177
+partner_prior_shipments          | |Correlation|: 0.004976
+sla_days                         | |Correlation|: 0.004778
+is_same_day                      | |Correlation|: 0.004713
+warehouse_prior_shipments        | |Correlation|: 0.004660
+sla_buffer_days                  | |Correlation|: 0.004573
+warehouse_prior_delay_rate       | |Correlation|: 0.004429
+shipping_cost_per_km             | |Correlation|: 0.004377
+
+======================================================================
+7. HISTORICAL FEATURE VALIDATION
+======================================================================
+PASS  | warehouse_prior_delay_rate       | Min: 0.000000 | Max: 1.000000 | Mean: 0.696562
+PASS  | partner_prior_delay_rate         | Min: 0.000000 | Max: 1.000000 | Mean: 0.696473
+
+======================================================================
+8. HISTORICAL COUNT FEATURES
+======================================================================
+PASS  | warehouse_prior_shipments        | Min: 0 | Max: 2305
+PASS  | partner_prior_shipments          | Min: 0 | Max: 2762
+
+======================================================================
+9. OPERATIONAL FEATURE CHECK
+======================================================================
+distance_per_sla_day             | Min: 1.0040 | Mean: 205.2424 | Max: 1499.5100
+shipping_cost_per_km             | Min: 8.9006 | Mean: 19.1247 | Max: 54.9665
+processing_to_sla_ratio          | Min: 0.0000 | Mean: 0.1825 | Max: 1.9961
+sla_buffer_days                  | Min: -0.9961 | Mean: 3.6374 | Max: 5.0000
+historical_operational_risk      | Min: 0.0000 | Mean: 0.6965 | Max: 1.0000
+network_distance_pressure        | Min: 1.7111 | Mean: 348.1988 | Max: 2609.4000
+
+======================================================================
+10. HISTORICAL FEATURE vs TARGET
+======================================================================
+
+--- warehouse_prior_delay_rate ---
+(-0.001, 0.684]                | Records:  13340 | Delay Rate:  69.86%
+(0.684, 0.695]                 | Records:  13342 | Delay Rate:  70.40%
+(0.695, 0.701]                 | Records:  13340 | Delay Rate:  70.23%
+(0.701, 0.71]                  | Records:  13338 | Delay Rate:  69.67%
+(0.71, 1.0]                    | Records:  13340 | Delay Rate:  69.60%
+
+--- partner_prior_delay_rate ---
+(-0.001, 0.684]                | Records:  13341 | Delay Rate:  69.73%
+(0.684, 0.694]                 | Records:  13340 | Delay Rate:  70.11%
+(0.694, 0.701]                 | Records:  13339 | Delay Rate:  70.15%
+(0.701, 0.709]                 | Records:  13340 | Delay Rate:  70.07%
+(0.709, 1.0]                   | Records:  13340 | Delay Rate:  69.70%
+
+======================================================================
+11. CATEGORICAL SIGNAL
+======================================================================
+delivery_type             | Min: 69.84% | Max: 70.90% | Spread: 1.06 pp
+priority                  | Min: 69.72% | Max: 70.29% | Spread: 0.57 pp
+warehouse_id              | Min: 68.11% | Max: 71.21% | Spread: 3.10 pp
+delivery_partner_id       | Min: 67.94% | Max: 71.49% | Spread: 3.55 pp
+
+======================================================================
+12. DUPLICATE CHECK
+======================================================================
+✅ No duplicate rows.
+
+======================================================================
+13. DATASET SIZE
+======================================================================
+Rows    : 66,700
+Columns : 31
+Source engineered dataset: delivery_delay_engineered.csv
+
+======================================================================
+14. VALIDATION SUMMARY
+======================================================================
+PASS  | required_columns
+PASS  | invalid_target
+PASS  | missing_values
+PASS  | infinite_values
+PASS  | historical_rates_valid
+PASS  | historical_counts_valid
+PASS  | duplicate_rows
+
+Validation result: 7/7 checks passed.
+
+======================================================================
+15. CONCLUSION
+======================================================================
+✅ ENGINEERED DATASET PASSED STRUCTURAL VALIDATION.
+Next step: train/test preprocessing for engineered features.
+
+Baseline models remain untouched.
+Original baseline dataset remains untouched.

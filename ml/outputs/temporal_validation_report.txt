@@ -1,0 +1,55 @@
+======================================================================
+LOGIX - TEMPORAL DATASET VALIDATION
+======================================================================
+Train rows : 35,483
+Test rows  : 8,984
+PASS | Train dataset is not empty
+PASS | Test dataset is not empty
+PASS | Train shipment dates are valid
+PASS | Test shipment dates are valid
+PASS | Train maximum date is before Test minimum date
+
+Train max date : 2025-05-27
+Test min date  : 2025-05-28
+PASS | Train target contains only 0/1
+PASS | Test target contains only 0/1
+PASS | Train target has both classes
+PASS | Test target has both classes
+PASS | Train contains warehouse_prior_delay_rate
+PASS | Test contains warehouse_prior_delay_rate
+PASS | Train contains partner_prior_delay_rate
+PASS | Test contains partner_prior_delay_rate
+PASS | Train contains prior_shipments
+PASS | Test contains prior_shipments
+PASS | Train contains partner_prior_shipments
+PASS | Test contains partner_prior_shipments
+PASS | Train warehouse_prior_delay_rate within 0-1
+PASS | Train partner_prior_delay_rate within 0-1
+PASS | Test warehouse_prior_delay_rate within 0-1
+PASS | Test partner_prior_delay_rate within 0-1
+PASS | Train prior_shipments non-negative
+PASS | Train partner_prior_shipments non-negative
+PASS | Test prior_shipments non-negative
+PASS | Test partner_prior_shipments non-negative
+PASS | Train has no missing values
+PASS | Test has no missing values
+PASS | Train has no infinite numeric values
+PASS | Test has no infinite numeric values
+FAIL | Train excludes leakage column: actual_delivery_date
+FAIL | Test excludes leakage column: actual_delivery_date
+FAIL | Train excludes leakage column: shipment_status
+FAIL | Test excludes leakage column: shipment_status
+FAIL | Train excludes leakage column: expected_delivery_date
+FAIL | Test excludes leakage column: expected_delivery_date
+PASS | Target is not included in train feature list
+PASS | Target is not included in test feature list
+PASS | Train and Test have same feature columns
+PASS | Train shipment IDs are unique
+PASS | Test shipment IDs are unique
+
+======================================================================
+TEMPORAL VALIDATION SUMMARY
+======================================================================
+PASS : 34
+FAIL : 6
+

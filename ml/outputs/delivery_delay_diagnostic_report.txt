@@ -1,0 +1,195 @@
+
+======================================================================
+1. BASIC DATASET INFORMATION
+======================================================================
+Rows: 44,467
+Columns: 12
+
+Columns:
+  - distance_km
+  - shipping_cost
+  - sla_days
+  - processing_days
+  - order_month
+  - order_day_of_week
+  - shipment_day_of_week
+  - delivery_type
+  - priority
+  - warehouse_id
+  - delivery_partner_id
+  - is_delayed
+
+======================================================================
+2. TARGET DISTRIBUTION
+======================================================================
+On-Time: 13,370 (30.07%)
+Delayed: 31,097 (69.93%)
+
+======================================================================
+3. MISSING VALUE CHECK
+======================================================================
+✅ No missing values found.
+
+======================================================================
+4. CONSTANT / NEAR-CONSTANT FEATURE CHECK
+======================================================================
+distance_km               | Unique:  38411 | Most common:   0.01%
+shipping_cost             | Unique:  44153 | Most common:   0.01%
+sla_days                  | Unique:      3 | Most common:  70.01%
+processing_days           | Unique:  39172 | Most common:   0.01%
+order_month               | Unique:     12 | Most common:   8.77%
+order_day_of_week         | Unique:      7 | Most common:  14.43%
+shipment_day_of_week      | Unique:      7 | Most common:  14.47%
+delivery_type             | Unique:      3 | Most common:  70.01%
+priority                  | Unique:      3 | Most common:  49.00%
+warehouse_id              | Unique:     30 | Most common:   3.47%
+delivery_partner_id       | Unique:     25 | Most common:   4.12%
+
+======================================================================
+5. NUMERIC FEATURE STATISTICS
+======================================================================
+distance_km               | Mean: 753.6082 | Std: 431.2470 | Min: 5.0200 | Max: 1499.9900
+shipping_cost             | Mean: 14233.1880 | Std: 10003.6668 | Min: 92.7700 | Max: 44730.6300
+sla_days                  | Mean: 4.3016 | Std: 1.1416 | Min: 1.0000 | Max: 5.0000
+processing_days           | Mean: 1.0024 | Std: 0.5766 | Min: 0.0001 | Max: 2.0000
+order_month               | Mean: 6.5315 | Std: 3.4440 | Min: 1.0000 | Max: 12.0000
+order_day_of_week         | Mean: 3.0038 | Std: 2.0040 | Min: 0.0000 | Max: 6.0000
+shipment_day_of_week      | Mean: 2.9905 | Std: 2.0024 | Min: 0.0000 | Max: 6.0000
+
+======================================================================
+6. NUMERIC FEATURE CORRELATION WITH TARGET
+======================================================================
+order_month               | Correlation: 0.008920
+order_day_of_week         | Correlation: 0.007964
+sla_days                  | Correlation: -0.007204
+distance_km               | Correlation: 0.005309
+shipping_cost             | Correlation: 0.005142
+processing_days           | Correlation: 0.002311
+shipment_day_of_week      | Correlation: -0.002170
+
+======================================================================
+7. CATEGORICAL FEATURE DELAY RATES
+======================================================================
+
+--- delivery_type ---
+Same Day                  | Records:   2191 | Delayed:   1562 | Delay Rate:  71.29%
+Express                   | Records:  11146 | Delayed:   7819 | Delay Rate:  70.15%
+Standard                  | Records:  31130 | Delayed:  21716 | Delay Rate:  69.76%
+
+--- priority ---
+High                      | Records:   6700 | Delayed:   4721 | Delay Rate:  70.46%
+Medium                    | Records:  15977 | Delayed:  11240 | Delay Rate:  70.35%
+Low                       | Records:  21790 | Delayed:  15136 | Delay Rate:  69.46%
+
+--- warehouse_id ---
+WH020                     | Records:   1485 | Delayed:   1071 | Delay Rate:  72.12%
+WH026                     | Records:   1540 | Delayed:   1099 | Delay Rate:  71.36%
+WH023                     | Records:   1482 | Delayed:   1054 | Delay Rate:  71.12%
+WH015                     | Records:   1518 | Delayed:   1078 | Delay Rate:  71.01%
+WH014                     | Records:   1488 | Delayed:   1056 | Delay Rate:  70.97%
+WH005                     | Records:   1516 | Delayed:   1074 | Delay Rate:  70.84%
+WH004                     | Records:   1542 | Delayed:   1092 | Delay Rate:  70.82%
+WH001                     | Records:   1468 | Delayed:   1038 | Delay Rate:  70.71%
+WH019                     | Records:   1515 | Delayed:   1071 | Delay Rate:  70.69%
+WH007                     | Records:   1446 | Delayed:   1022 | Delay Rate:  70.68%
+WH028                     | Records:   1459 | Delayed:   1030 | Delay Rate:  70.60%
+WH002                     | Records:   1445 | Delayed:   1020 | Delay Rate:  70.59%
+WH024                     | Records:   1464 | Delayed:   1031 | Delay Rate:  70.42%
+WH006                     | Records:   1448 | Delayed:   1017 | Delay Rate:  70.23%
+WH012                     | Records:   1500 | Delayed:   1053 | Delay Rate:  70.20%
+WH027                     | Records:   1438 | Delayed:   1007 | Delay Rate:  70.03%
+WH011                     | Records:   1469 | Delayed:   1025 | Delay Rate:  69.78%
+WH021                     | Records:   1502 | Delayed:   1047 | Delay Rate:  69.71%
+WH030                     | Records:   1527 | Delayed:   1064 | Delay Rate:  69.68%
+WH013                     | Records:   1428 | Delayed:    995 | Delay Rate:  69.68%
+WH017                     | Records:   1448 | Delayed:   1003 | Delay Rate:  69.27%
+WH010                     | Records:   1534 | Delayed:   1062 | Delay Rate:  69.23%
+WH022                     | Records:   1501 | Delayed:   1039 | Delay Rate:  69.22%
+WH018                     | Records:   1451 | Delayed:   1004 | Delay Rate:  69.19%
+WH003                     | Records:   1462 | Delayed:   1009 | Delay Rate:  69.02%
+WH025                     | Records:   1464 | Delayed:   1010 | Delay Rate:  68.99%
+WH008                     | Records:   1517 | Delayed:   1043 | Delay Rate:  68.75%
+WH016                     | Records:   1475 | Delayed:   1009 | Delay Rate:  68.41%
+WH029                     | Records:   1464 | Delayed:    997 | Delay Rate:  68.10%
+WH009                     | Records:   1471 | Delayed:    977 | Delay Rate:  66.42%
+
+--- delivery_partner_id ---
+PART020                   | Records:   1779 | Delayed:   1279 | Delay Rate:  71.89%
+PART006                   | Records:   1794 | Delayed:   1287 | Delay Rate:  71.74%
+PART019                   | Records:   1746 | Delayed:   1248 | Delay Rate:  71.48%
+PART012                   | Records:   1774 | Delayed:   1261 | Delay Rate:  71.08%
+PART010                   | Records:   1792 | Delayed:   1272 | Delay Rate:  70.98%
+PART022                   | Records:   1730 | Delayed:   1227 | Delay Rate:  70.92%
+PART015                   | Records:   1769 | Delayed:   1249 | Delay Rate:  70.60%
+PART024                   | Records:   1824 | Delayed:   1285 | Delay Rate:  70.45%
+PART008                   | Records:   1761 | Delayed:   1239 | Delay Rate:  70.36%
+PART023                   | Records:   1804 | Delayed:   1269 | Delay Rate:  70.34%
+PART017                   | Records:   1792 | Delayed:   1258 | Delay Rate:  70.20%
+PART007                   | Records:   1794 | Delayed:   1259 | Delay Rate:  70.18%
+PART009                   | Records:   1756 | Delayed:   1226 | Delay Rate:  69.82%
+PART003                   | Records:   1834 | Delayed:   1280 | Delay Rate:  69.79%
+PART005                   | Records:   1750 | Delayed:   1215 | Delay Rate:  69.43%
+PART018                   | Records:   1763 | Delayed:   1223 | Delay Rate:  69.37%
+PART013                   | Records:   1831 | Delayed:   1270 | Delay Rate:  69.36%
+PART014                   | Records:   1736 | Delayed:   1204 | Delay Rate:  69.35%
+PART002                   | Records:   1771 | Delayed:   1228 | Delay Rate:  69.34%
+PART021                   | Records:   1819 | Delayed:   1259 | Delay Rate:  69.21%
+PART025                   | Records:   1747 | Delayed:   1202 | Delay Rate:  68.80%
+PART016                   | Records:   1766 | Delayed:   1211 | Delay Rate:  68.57%
+PART004                   | Records:   1812 | Delayed:   1242 | Delay Rate:  68.54%
+PART011                   | Records:   1745 | Delayed:   1192 | Delay Rate:  68.31%
+PART001                   | Records:   1778 | Delayed:   1212 | Delay Rate:  68.17%
+
+======================================================================
+8. NUMERIC FEATURES BY TARGET CLASS
+======================================================================
+
+--- distance_km ---
+On-Time    | Mean: 750.1168 | Median: 751.6900 | Std: 429.3851
+Delayed    | Mean: 755.1093 | Median: 757.6500 | Std: 432.0433
+
+--- shipping_cost ---
+On-Time    | Mean: 14154.7369 | Median: 12402.6300 | Std: 9969.4906
+Delayed    | Mean: 14266.9177 | Median: 12507.8500 | Std: 10018.2960
+
+--- sla_days ---
+On-Time    | Mean: 4.3141 | Median: 5.0000 | Std: 1.1304
+Delayed    | Mean: 4.2962 | Median: 5.0000 | Std: 1.1464
+
+--- processing_days ---
+On-Time    | Mean: 1.0004 | Median: 0.9982 | Std: 0.5737
+Delayed    | Mean: 1.0033 | Median: 1.0091 | Std: 0.5779
+
+--- order_month ---
+On-Time    | Mean: 6.4847 | Median: 7.0000 | Std: 3.4456
+Delayed    | Mean: 6.5517 | Median: 7.0000 | Std: 3.4431
+
+--- order_day_of_week ---
+On-Time    | Mean: 2.9795 | Median: 3.0000 | Std: 2.0024
+Delayed    | Mean: 3.0143 | Median: 3.0000 | Std: 2.0046
+
+--- shipment_day_of_week ---
+On-Time    | Mean: 2.9972 | Median: 3.0000 | Std: 1.9943
+Delayed    | Mean: 2.9877 | Median: 3.0000 | Std: 2.0059
+
+======================================================================
+9. POTENTIAL PREDICTIVE SIGNAL
+======================================================================
+⚠️ No numeric feature has absolute correlation >= 0.10 with the target.
+
+======================================================================
+10. DATA QUALITY CHECKS
+======================================================================
+PASS  | negative_distance              | Count: 0
+PASS  | negative_shipping_cost         | Count: 0
+PASS  | negative_processing_days       | Count: 0
+PASS  | invalid_sla_days               | Count: 0
+PASS  | invalid_target                 | Count: 0
+
+======================================================================
+11. DIAGNOSTIC CONCLUSION
+======================================================================
+⚠️ Very weak numeric relationship detected.
+Feature engineering is required before retraining the predictive models.
+
+Baseline models remain preserved. No existing model files were modified.
